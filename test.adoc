@@ -1,14 +1,15 @@
-== Livre
+== Abord conjoint de l'obésité à travers la méthode scientifique occidentale et la médecine traditionnelle chinoise.
+Maigrir & Métal - Tutoriel pour les professionnels de l’amaigrissement.
 
-=== Chapitre 1
+=== Préface
 
-- blah
-- blig
-- bluh
+La surcharge pondérale représente un problème de santé publique important. Cette affection chronique représente une source majeure de mortalité précoce. Suivant son degré le recul de l’espérance de vie varie de 6 à 15 ans. Du point de vue des traitements, seule la chirurgie bariatrique semble donner de bons résultats à terme mais cela au prix d’une amputation irréversible souvent drastique et d’effets secondaires non négligeables.
+Les solutions médicales et nutritionnelles sont, quant à elles, ridicules, inefficaces et parfois dangereuses et ce depuis des décennies. Les seuls domaines dans lesquels ces solutions excellent sont l’entretien de la confusion, l’extravagance, l’inefficacité et parfois le succès médiatique. Force est de constater qu’elles ne sont que le fruit de l’imagination de personnes n’ayant aucune compétence dans le domaine de la médecine, de la physiologie humaine et surtout de la nutrition, fussent-elles pour certaines, médecins.
+Il est assez navrant par ailleurs de constater qu’aucun chercheur, médecin ou nutritionniste ne soit arrivé jusqu’à maintenant à élaborer une méthode logique simple, compatible avec les données scientifiques actuelles, efficace et sans danger vis à vis de cette affection. De fait, c’est l’existence même de cette carence à cet endroit qui fait la place aux incompétents. Cet état de fait nous laisse présager encore pour longtemps de récurrents printemps qui apporteront une fois de plus leur lot de nouveaux régimes de plus en plus farfelus et dont le dernier en date qui marque encore les esprits, a quand même laissé quelques insuffisances rénales graves et mortelles derrière lui.
+Le propos étant surtout destiné aux professionnels de la santé et de la nutrition, il se peut que cet écrit soit peu propice à la vulgarisation. C’est le cas en effet dans le sens où le vocabulaire des métiers médicaux ainsi que les pré requis en terme de connaissance créent de facto une ségrégation du lectorat. Pour expliciter son propos vis à vis des scientifiques, il utilise les termes et les notions acquises dès les premières années de médecine, en l’occurence les connaissances fondamentales en biochimie, en physiologie et en nutrition humaine telles qu’elles ont été décrites depuis maintenant un bon demi siècle et qui, de fait, sont désormais solidement établies. Pour la Tradition Chinoise, il emprunte à l’ensemble du corpus taoïste, mais surtout à la Loi des 5 éléments - chinois simplifié : 五行 ; pinyin : wǔxíng - qui est l’un des grands obligatoires de la médecine chinoise que l’on définira rapidement comme une structure de catégorisation du monde grâce à la pensée analogique.
 
-Edité sur GitHub
 
-Commit avec tower
+
 
 A statement.footnote:[Clarification about this statement.]
 
