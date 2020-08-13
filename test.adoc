@@ -9,3 +9,6 @@
 Edité sur GitHub
 
 Commit avec tower
+
+A statement.footnote:[Clarification about this statement.]
+
