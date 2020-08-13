@@ -5,3 +5,5 @@
 - blah
 - blig
 - bluh
+
+Edité sur GitHub
