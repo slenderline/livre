@@ -2,7 +2,25 @@
 
 Maigrir & Métal - Tutoriel pour les professionnels de l’amaigrissement.
 
-=== Préface
+=== Titres envisagés
+En Chine, l’obésité est une maladie de peau.
+
+Traité du zen et de l'entretien des motocyclettes
+Traité du tao et de la perte de poids
+Traité du tao et de l’amaigrissement
+Traité du tao et de l’amincissement
+Traité du tao et de la minceur
+Maigrir - Manuel d’utilisation
+L’obésité, une maladie de peau ?
+Quoique cocasse, cette question mérite réflexion.
+Maigrir - Manuel d’utilisation
+Maigrir au masculin - Manuel d’utilisation.
+L’obésité, une sorte de maladie de peau ?
+Maigrir pour les hommes
+Maigrir mode d’emploi
+
+
+=== Préface 1
 
 La surcharge pondérale représente un problème de santé publique important. Cette affection chronique représente une source majeure de mortalité précoce. Suivant son degré le recul de l’espérance de vie varie de 6 à 15 ans. Du point de vue des traitements, seule la chirurgie bariatrique semble donner de bons résultats à long terme mais cela au prix d’une amputation irréversible souvent drastique et d’effets secondaires non négligeables.
 
@@ -12,6 +30,25 @@ Il est assez navrant par ailleurs de constater qu’aucun chercheur, médecin ou
 
 Le propos étant surtout destiné aux professionnels de la santé et de la nutrition, il se peut que cet écrit soit peu propice à la vulgarisation. C’est le cas en effet dans le sens où le vocabulaire des métiers médicaux ainsi que les pré requis en terme de connaissance créent de facto une ségrégation du lectorat. Pour expliciter son propos vis à vis des scientifiques, il utilise les termes et les notions acquises dès les premières années de médecine, en l’occurence les connaissances fondamentales en biochimie, en physiologie et en nutrition humaine telles qu’elles ont été décrites depuis maintenant un bon demi siècle et qui, de fait, sont désormais solidement établies. Pour la Tradition Chinoise, il emprunte à l’ensemble du corpus taoïste.footnote:[Taoisme = Une certaine vision du monde.], mais surtout à la Loi des 5 éléments - chinois simplifié : 五行 ; pinyin : wǔxíng - qui est l’un des grands obligatoires de la médecine chinoise et que l’on définira rapidement comme une structure de catégorisation du monde grâce à une pensée analogique logique.
 
+=== Préface 2
+
+Maigrir, c’est comme pour l’essence dans une voiture. Si on veut baisser la jauge, il faut prendre l’autoroute et rouler et rouler, mais en plus, faut oublier de passer à la pompe !
+Cette image à l’emporte-pièce a le mérite d’être simple, concise et surtout frappée au coin du bon-sens. Compréhensible par tout conducteur, elle illustre de manière adéquate le fonctionnement des machines thermiques dont les éléments principaux sont le carburant, le réservoir et le moteur flanqué de son carburateur.
+Lorsque l’on assimile l’organisme à une machine thermique, la nourriture représente le carburant et les organes qui utilisent l’énergie contenue dans la nourriture représentent le moteur. Si la quantité de nourriture absorbée dépasse la quantité d’énergie dépensée par les organes, l’organisme met en réserve le surplus en grossissant. Dans le cas contraire, l’organisme puise dans ses réserves en maigrissant.
+Ce principe, juste au demeurant si l’on s’en tient aux principes de la thermodynamique, est un peu trop simpliste quand vient le moment de l’appliquer à la machine humaine. La nourriture est un carburant complexe composé d’aliments qui sont totalement différents les uns des autres, ces aliments sont eux-même composés de molécules différentes, des protides, des glucides, des lipides, des oligo-éléments, vitamines, minéraux, etc. En raison de cette complexité, quelle type de substances vais-je privilégier dans ce régime ? Les protides, les lipides, les sucres lents ? les sucres rapides ? Vais-je m’abstenir de manger et faire un jeûne ? un jeûne intermittent ? Combien d’eau faut-il boire ? De quelle manière vais-je dépenser mon énergie ? sport aérobique ?  anaérobique ? lentement et longtemps ou intensif avec de courtes récupérations ? Dois-je aller courir à jeun ? Faut-il manger des féculents le soir ? A quelle heure dois-je manger ? Un lot de questions qui méritent des réponses précises ou mieux, une explication du phénomène que représente l’organisme vu comme une machine thermique compliquée.
+Pour décrire cette machine et son fonctionnement, deux abords sont utilisés, celui de la médecine scientifique actuelle et celui de la médecine chinoise traditionnelle.
+L’abord scientifique utilise les termes et les notions acquises dès les premières années de médecine, en l’occurence les connaissances fondamentales en biochimie, en physiologie et en nutrition humaine qui sont solidement établies. Il permet de se faire une idée précise de la machine, de comprendre ses mécanismes, ses fonctions, la manière dont ça marche.
+L’abord chinois, plus précisément taoïste, issu d’une pensée qui manipule l’analogie de préférence à l’analyse, permet d’intégrer et de comprendre les éléments de la machine humaine et leur fonctionnement sous un angle différent mais parfaitement complémentaire à la démarche scientifique. L’élément principal du corpus taoïste.[1] qui est utilisé pour la compréhension du sujet est la loi des 5 éléments - 五行 (chinois simplifié) ; wǔxíng (pinyin). Ce système symbolique est l’un des grands obligatoires de la médecine chinoise et on le définira rapidement comme une structure de catégorisation du monde grâce à une pensée analogique logique.
+La première complexité de la structure humaine vue sous l’angle d’une machine thermique est qu’elle est en fait composée de deux machines thermiques. Celles-ci sont couplées pour tendre ensemble à la même finalité, à savoir produire de l’énergie mais ceci à l’aide de structures, de substances, de quantités, de puissance et de bien d’autres choses encore, très différentes pour chacune des deux machines.
+Cette structure particulière présentant un fonctionnement qui peut paraître complexe, apparaîtra toutefois plus facilement compréhensible aux conducteurs qui font la distinction entre une voiture à essence et une voiture au diesel. Ceci en terme de conduite s’entend, et non de prix à la pompe.
+Il faut imaginer la machine humaine comme une voiture hybride. Elle possède deux moteurs mais contrairement aux hybrides actuels de type thermique/électrique, celui de la machine humaine est essence/diesel.
+Avec cette voiture le conducteur peut faire face à tout type de conduite. Avec le moteur à essence, il se permet des démarrages fulgurants exploitant la puissance du moteur dès le départ, il profite de la puissance disponible sous l’accélérateur pour dépasser, avaler les virages. Seule l’essence, produit volatil qui s’enflamme facilement dans des moteurs lui permettant de monter dans les tours, permet ce genre de conduite sportive.
+Avec le moteur diesel, l’allumage nécessite de faire chauffer la bougie, car le gasoil, dérivé des huile lourdes est plus difficile à enflammer, nécessite d’être chauffé au démarrage. Le moteur ne tourne pas très rapidement mais possède un fort couple à bas et moyen régime, l’idéal pour propulser une confortable berline aux vitesses autorisées pendant de longues heures d’autoroute.
+Deux styles de conduite à l’opposé l’une de l’autre avec des carburants différents, des stockages différents, un moteur ne fonctionnant pas de la même manière, pollution différentes.
+
+
+
+Pour son fonctionnement, le corps humain dispose de deux moteurs différents. Pour facilité la compréhension, il est intéressant de créer une analogie entre ces deux moteurs et les motorisations essence et diesel que nous trouvons dans nos véhicules.
 
 |===
 
@@ -36,3 +73,116 @@ Le propos étant surtout destiné aux professionnels de la santé et de la nutri
 Aborder la médecine chinoise nécessite d'en connaître un peu à propos du symbolisme ayant trait au taoïsme.
 Contrairement à la démarche scientifique qui part de l'observation d'un phénomène pour en déduire une loi dont on vérifiera les résultats pour ou non valider la loi, la démarche taoïste observe et classifie les phénomènes à travers des systèmes symboliques très précis et se contente d'appliquer les lois qui régissent ces systèmes symboliques
 En gros, pour situer la différence entre médecine chinoise et médecine scientifique, la première définit le monde et les phénomènes qu'il contient en terme de symboles. Il applique les lois qui régissent les symboles.
+
+=== morceaux de texte divers et variés sur tous les sujets
+
+Maigrir et surtout ne pas reprendre est un projet qui nécessite inévitablement un changement important et définitif des habitudes alimentaires. Ce changement concerne certains groupes d’aliments et de substances qui sont soit exclus ou déconseillés si ils favorisent la prise de poids, soit conseillés si ils font maigrir.
+
+Ce changement doit être très mis en oeuvre de manière assez radicale et rigoureuse pendant la phase d’amaigrissement. Ensuite ces mêmes conseils sur une mode relativement moins contraignant deviendront les bases d’un régime équilibré favorable à la stabilisation sur le long terme.
+
+Parmi les groupes d’aliments à exclure ou diminuer en terme de quantité et fréquence certains le sont simplement parce qu’ils sont de même nature. Ce sont les erreurs d’apport direct.
+
+parce ils rassemblent des aliments et substances qui font grossir en augmentant l’apport d’acides gras saturés. Cette augmentation peut se faire de plusieurs manières. Soit directement en étant de même nature, soit indirectement en favorisant leur absorption, soit enfin en étant transformés en acides gras saturés à l’intérieur même de l’organisme.
+
+En contre-partie de ces évictions, d’autres groupes d’aliments seront plus que favorisées. On serait tenté de dire qu’ils deviendraient obligatoires, ce qui n’est pas faux. Les aliments qui composent ces groupes sont tous des féculents. Ils représentent la source incontournable d’amidon pour l’organisme. Leur emploi dans les régimes, longtemps déconseillé dans  à la fois par l’autorité médicale - les fameux 3P - mais aussi par les habitudes de la population et surtout de la presse spécialisé, est en passe, petit à petit à être réhabilité au fur et à mesure des années. Il est temps de les mettre à la place qui leur conviennent.
+
+Ici - passage sur le livre de Barnard.
+
+« Maigrir, c’est un peu comme dans une voiture. Si on veut vider le réservoir, il faut prendre l’autoroute et rouler, rouler, dans le genre « t’arrêtes pas » mais en plus, faut oublier la pompe ! » Cette image à l’emporte-pièce a le mérite d’être concise, simple et frappée au coin du bon-sens. Le machine humaine est une machine thermique dont le fonctionnement peut paraître complexe mais qui deviendra certainement plus clair aux conducteurs de voiture qui connaissent les différences entre essence et diesel.
+
+
+
+
+
+
+En médecine chinoise lorsqu’on demande quelle attitude doit-on avoir vis à vis des problèmes de poids.
+
+En médecine chinoise, lorsque l’on veut maigrir il faut se référer à la loi des 5 éléments.
+
+
+
+
+En 1992, parut un livre écrit par le Dr Neal Barnard dont le titre « Quand manger vous fait maigrir ! L’effet anti-calorique » pour le peu qu’on en sait n’eut pas le succès escompté
+
+Avant d’aborder le problème de la surcharge pondérale, il est nécessaire de mettre à disposition de manière claire les systèmes symboliques qui seront utilisés ultérieurement dans le propos.
+
+La loi des 5 éléments correspond à l’étude du fonctionnement d’un cycle oscillant en général.
+
+En médecine chinoise, on regarde le monde sous différentes coutures à l’aide d’outils spéciaux que sont les systèmes symboliques. Le taoïsme en dispose de nombreux qui ont la particularité d’être interconnectés les uns aux autres.
+Il est des notions qui sont importantes à connaître pour comprendre ces systèmes symboliques.
+Le Tai Yi, le Un, le Sans Nom
+Le Yin/Yang, le sytème binaire.
+Le Yang c’est le Haut, Le Gauche, l’émetteur, le chaud, l’extérieur, le rapide, le nomade, l’accessoire, l’extension, l’inspiration.
+Le Yin c’est le Bas, Le Droit, le récepteur, le froid, l’interne, l’inertie, le sédentaire, l’essentiel, le repli, l’expiration.
+Le Ciel/Homme/Sol
+En haut, le Ciel
+En bas, le Sol
+Au milieu, l’Homme
+
+
+
+
+
+
+
+Le binaire chinois définit le 陰 yin et le 陽 yang comme les emblèmes du féminin et du masculin. Il leur attribue une cohorte de qualités qu’il est important de connaître pour pouvoir aborder ultérieurement l’étude des systèmes symboliques du 5 et du 6 qui précisent l’intimité du couple yin/yang.
+
+|===
+
+| genre | féminin | masculin
+
+| fonction | réception | émission
+
+| situation | interne | externe
+
+| importance | vitale | accessoire
+
+| verticalité | bas | haut
+
+| latéralité | droit| gauche
+
+| mouvement | contraction | extension
+
+| couleur | noir | blanc
+
+| souffle | expiration | inspiration
+
+| type d'homme | sédentaire | nomade
+
+| activité | immobile | mobile
+
+|===
+
+La
+
+陰
+
+La système symbolique qui permette de comprendre et résoudre le problème de la surcharge pondérale est le système des 5 éléments. En médecine chinoise, le système à base 5 est spécialement dédié à la description des fonctions essentielles de l’organisme. Il existe un second système qui calcule par 6 et qui est à l’opposé dédié à la description de l’énergie. L
+
+La médecine taoïste dispose de deux systèmes pour décrire les choses de l’Univers, le système 5 et le système 6 ; un pour le yin et le second pour le yang.
+
+Chez les chinois, il y a le Yin et le Yang. Il est très facile de les reconnaître et des les situer, le Yin est en bas, à droite et à l’intérieur, le Yang est en haut, à gauche, et à l’extérieur.
+Sur votre avant-bras il y a une face avec des poils, c’est la face yang. La face imberbe à  l’opposé est yin.
+
+En médecine taoïste, la surcharge pondérale grasse est le résultat d’un déséquilibre de l’axe horizontal de la loi des 5 éléments qui à pour origine une consommation excessive en aliments associés à l’élément Métal et plus ou moins déficiente en aliments associés aux éléments Bois et Eau.
+Pour préciser la nature ce déséquilibre dans les termes de la loi des 5 éléments, on qualifie ce déséquilibre d’excès vicieux de Métal associé à une carence primitive ou secondaire des éléments Bois et Eau.
+L’excès de l’élément Métal suffit par ailleurs à lui tout seul pour provoquer le déséquilibre et la maladie. Les troubles concernant les deux éléments restants modulent la gravité de ce déséquilibre.
+Seule la rectification judicieuse des apports des différents éléments permet de remettre l’axe Bois-Métal en position correcte et de provoquer l’amaigrissement. D’une manière assez logique, l’importance de la surcharge pondérale est en proportion de l’importance de l’excès et des carences de ces éléments.
+
+Le signe clinique essentiel de la surcharge pondérale est l’hypertrophie des adipocytes situés au niveau de l’hypoderme du tissu cutané. Cette couche hypodermique joue plusieurs rôles :
+- rôle protecteur : en servant d’amortisseur aux coups extérieurs et aux chutes.
+- rôle d’isolant thermique en hiver
+- rôle plastique en modelant la silhouette en fonction de l'âge, du sexe et de l'état nutritionnel de l'individu
+- rôle énergétique assuré par le stockage de triglycérides au niveau des adipocytes
+
+En terme de localisation, la surcharge pondérale intéresse aussi d’autres tissus, en l’occurence certaines séreuses comme le péricarde par exemple. Cependant parmi les séreuses, le péritoine qui inclut de nombreux territoires adipocytaires, est plus particulièrement propice au stockage interne. Les quantités stockées au niveau du ventre et de la bedaine peuvent devenir extrêmement  importantes.
+
+En médecine taoïste, la peau est considéré comme l’un des 5 organes ou Tsang. En ce qui concerne la fonction respiratoire, le poumon est le l’organe principal, la peau est l
+Celle-ci assure une partie non négligeable de la fonction respiratoire en association avec l’organe principal ou Tsang qu’est le poumon.
+
+L’excès vicieux de l’élément Métal est reconnaissable au niveau du tissu qu’il atteint au sein de l’organisme, en l’occurence la peau et les séreuses. Ces deux tissus font partie de l’élément Métal. Une des qualités fondamentales de l’élément Métal est qu’il toujours situé à l’extérieur, que sa capacité est d’entourer, d’envelopper, de faire la frontière entre l’extérieur et l’intérieur. Les textes médicaux associent la respiration, le poumon, la peau avec l’élément Métal
+
+L’hypertrophie du tissu adipeux au sein de ces deux tissus
+L’excès de l’élément Métal est patent du fait que la maladie se caractérise essentiellement par l’hypertrophie du tissu adipeux que constitue une partie fonctionnelle de l’organe qu’est la peau. Celle-ci, comme le poumon - qui n’en n’est que son équivalent interne - fait partie de l’élément Métal qui assure principalement la fonction respiratoire. Etant même essentielle au maintien de la vie, elle est classée dans la catégorie des Tsang, les Organes Vitaux. En-dehors de la fonction respiratoire, elle possède par ailleurs une fonction de protection ; protection contre les agressions mécaniques du milieu extérieur mais aussi et surtout contre les variations thermiques, en particulier le froid.
+
+La surcharge pondérale grasse affecte la peau et les séreuses dans le sens d’une hypertrophie des adipocytes qui sont les cellules spécialement dédiés au stockage des triglycérides. Ces tissus, la peau et les séreuses, ont en commun la particularité d’être en surface, d’envelopper, de séparer deux milieux. Le poumon lui aussi, apparaissant un peu comme la peau de l’intérieur fait partie de cette famille.
