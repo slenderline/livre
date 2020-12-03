@@ -13,7 +13,7 @@ Il est assez navrant par ailleurs de constater qu’aucun chercheur, médecin ou
 Le propos étant surtout destiné aux professionnels de la santé et de la nutrition, il se peut que cet écrit soit peu propice à la vulgarisation. C’est le cas en effet dans le sens où le vocabulaire des métiers médicaux ainsi que les pré requis en terme de connaissance créent de facto une ségrégation du lectorat. Pour expliciter son propos vis à vis des scientifiques, il utilise les termes et les notions acquises dès les premières années de médecine, en l’occurence les connaissances fondamentales en biochimie, en physiologie et en nutrition humaine telles qu’elles ont été décrites depuis maintenant un bon demi siècle et qui, de fait, sont désormais solidement établies. Pour la Tradition Chinoise, il emprunte à l’ensemble du corpus taoïste.footnote:[Taoisme = Une certaine vision du monde.], mais surtout à la Loi des 5 éléments - chinois simplifié : 五行 ; pinyin : wǔxíng - qui est l’un des grands obligatoires de la médecine chinoise et que l’on définira rapidement comme une structure de catégorisation du monde grâce à une pensée analogique logique.
 
 
-|=== 
+|===
 
 | ressources d'énergie | glucides | lipides
 
@@ -31,7 +31,8 @@ Le propos étant surtout destiné aux professionnels de la santé et de la nutri
 
 | métablisme | indépendant | lié aux glucides
 
-|=== 
+|===
 
-
-
+Aborder la médecine chinoise nécessite d'en connaître un peu à propos du symbolisme ayant trait au taoïsme.
+Contrairement à la démarche scientifique qui part de l'observation d'un phénomène pour en déduire une loi dont on vérifiera les résultats pour ou non valider la loi, la démarche taoïste observe et classifie les phénomènes à travers des systèmes symboliques très précis et se contente d'appliquer les lois qui régissent ces systèmes symboliques
+En gros, pour situer la différence entre médecine chinoise et médecine scientifique, la première définit le monde et les phénomènes qu'il contient en terme de symboles. Il applique les lois qui régissent les symboles.
