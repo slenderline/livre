@@ -21,7 +21,6 @@ Maigrir mode d’emploi
 
 
 === Préface 1
-=== Préface
 
 La surcharge pondérale représente un problème de santé publique important. Cette affection chronique représente une source majeure de mortalité précoce. Suivant son degré le recul de l’espérance de vie varie de 6 à 15 ans. Du point de vue des traitements, seule la chirurgie bariatrique semble donner de bons résultats à long terme mais cela au prix d’une amputation irréversible souvent drastique et d’effets secondaires non négligeables.
 
@@ -32,6 +31,20 @@ Il est assez navrant par ailleurs de constater qu’aucun chercheur, médecin ou
 Le propos étant surtout destiné aux professionnels de la santé et de la nutrition, il se peut que cet écrit soit peu propice à la vulgarisation. C’est le cas en effet dans le sens où le vocabulaire des métiers médicaux ainsi que les pré requis en terme de connaissance créent de facto une ségrégation du lectorat. Pour expliciter son propos vis à vis des scientifiques, il utilise les termes et les notions acquises dès les premières années de médecine, en l’occurence les connaissances fondamentales en biochimie, en physiologie et en nutrition humaine telles qu’elles ont été décrites depuis maintenant un bon demi siècle et qui, de fait, sont désormais solidement établies. Pour la Tradition Chinoise, il emprunte à l’ensemble du corpus taoïste.footnote:[Taoisme = Une certaine vision du monde.], mais surtout à la Loi des 5 éléments - chinois simplifié : 五行 ; pinyin : wǔxíng - qui est l’un des grands obligatoires de la médecine chinoise et que l’on définira rapidement comme une structure de catégorisation du monde grâce à une pensée analogique logique.
 
 === Préface 2
+Maigrir et surtout ne pas reprendre est un projet qui nécessite inévitablement un changement important et définitif des habitudes alimentaires. Ce changement concerne certains groupes d’aliments et de substances qui sont soit exclus ou déconseillés si ils favorisent la prise de poids, soit conseillés si ils font maigrir.
+
+Ce changement doit être très mis en oeuvre de manière assez radicale et rigoureuse pendant la phase d’amaigrissement. Ensuite ces mêmes conseils sur une mode relativement moins contraignant deviendront les bases d’un régime équilibré favorable à la stabilisation sur le long terme.
+
+Parmi les groupes d’aliments à exclure ou diminuer en terme de quantité et fréquence certains le sont simplement parce qu’ils sont de même nature. Ce sont les erreurs d’apport direct.
+
+parce ils rassemblent des aliments et substances qui font grossir en augmentant l’apport d’acides gras saturés. Cette augmentation peut se faire de plusieurs manières. Soit directement en étant de même nature, soit indirectement en favorisant leur absorption, soit enfin en étant transformés en acides gras saturés à l’intérieur même de l’organisme.
+
+En contre-partie de ces évictions, d’autres groupes d’aliments seront plus que favorisées. On serait tenté de dire qu’ils deviendraient obligatoires, ce qui n’est pas faux. Les aliments qui composent ces groupes sont tous des féculents. Ils représentent la source incontournable d’amidon pour l’organisme. Leur emploi dans les régimes, longtemps déconseillé dans  à la fois par l’autorité médicale - les fameux 3P - mais aussi par les habitudes de la population et surtout de la presse spécialisé, est en passe, petit à petit à être réhabilité au fur et à mesure des années. Il est temps de les mettre à la place qui leur conviennent.
+
+
+=== Préface 3
+Maigrir au masculin ?
+Réglez moi ce carbu !
 
 Maigrir, c’est comme pour l’essence dans une voiture. Si on veut baisser la jauge, il faut prendre l’autoroute et rouler et rouler, mais en plus, faut oublier de passer à la pompe !
 Cette image à l’emporte-pièce a le mérite d’être simple, concise et surtout frappée au coin du bon-sens. Compréhensible par tout conducteur, elle illustre de manière adéquate le fonctionnement des machines thermiques dont les éléments principaux sont le carburant, le réservoir et le moteur flanqué de son carburateur.
@@ -67,32 +80,75 @@ Pour son fonctionnement, le corps humain dispose de deux moteurs différents. Po
 
 | mise en circulation | libre | liée à des protéines
 
-| métablisme | indépendant | lié aux glucides
+| métabolisme | indépendant | lié aux glucides
 
-|=== 
+|===
+
 === Bref rappel du symbolisme chinois
 
-Le monde taoïste se décrit à l'aide d'un ensemble de systèmes symboliques interdépendants. Les symboles de ces systèmes sont les chefs de file emblématiques de classifications dans des domaines aussi variés que l'agriculture, l'astronomie, la médecine, la musique, l'art culinaire, l'art pictural, la danse, la bien-séance. Dans chacun de ces domaines les choses sont décrites à travers le sytème symbolique et s'organisent suivant ses lois. 
+Le monde taoïste se décrit à l'aide d'un ensemble de systèmes symboliques interdépendants. Les symboles de ces systèmes sont les chefs de file emblématiques de classifications dans des domaines aussi variés que l'agriculture, l'astronomie, la médecine, la musique, l'art culinaire, l'art pictural, la danse, la bien-séance. Dans chacun de ces domaines les choses sont décrites à travers le sytème symbolique et s'organisent suivant ses lois.
+
+La tradition taoïste décrit le monde à l'aide d'un ensemble de systèmes symboliques interdépendants. Les symboles de ces différents systèmes sont les chefs de file emblématiques de classifications appartenant à des domaines aussi divers et variés que l'agriculture, l'astronomie, la médecine, la musique, l'art culinaire, la bien-séance. Dans chacun de ces domaines, ce sont les mêmes symboles qui oeuvrent et les mêmes lois qui organisent.
+
+Chacune des choses ou des phénomènes appartenant à ces domaines apparaît liés aux symboles et s'organisent à l'aide des mêmes lois.
+La tradition taoïste décrit le monde à l'aide d'un ensemble de systèmes symboliques interdépendants. Les symboles de ces différents systèmes sont les chefs de file emblématiques de classifications appartenant à des domaines aussi divers et variés que l'agriculture, l'astronomie, la médecine, la musique, l'art culinaire, la bien-séance. Chacune des choses appartenant à ces domaines sont relié aux symboles et s'organisent à l'aide des mêmes lois.
 
 
-La tradition taoïste décrit le monde à l'aide d'un ensemble de systèmes symboliques interdépendants. Les symboles de ces différents systèmes sont les chefs de file emblématiques de classifications appartenant à des domaines aussi divers et variés que l'agriculture, l'astronomie, la médecine, la musique, l'art culinaire, la bien-séance. Dans chacun de ces domaines, ce sont les mêmes symboles qui oeuvrent et les mêmes lois qui organisent. 
+=== Rappels de symbolisme chinois
+Avant d’aborder le problème de la surcharge pondérale, il est nécessaire de mettre à disposition de manière claire les systèmes symboliques qui seront utilisés ultérieurement dans le propos.
+
+La loi des 5 éléments correspond à l’étude du fonctionnement d’un cycle oscillant en général.
+
+En médecine chinoise, on regarde le monde sous différentes coutures à l’aide d’outils spéciaux que sont les systèmes symboliques. Le taoïsme en dispose de nombreux qui ont la particularité d’être interconnectés les uns aux autres.
+Il est des notions qui sont importantes à connaître pour comprendre ces systèmes symboliques.
+Le Tai Yi, le Un, le Sans Nom
+Le Yin/Yang, le sytème binaire.
+Le Yang c’est le Haut, Le Gauche, l’émetteur, le chaud, l’extérieur, le rapide, le nomade, l’accessoire, l’extension, l’inspiration.
+Le Yin c’est le Bas, Le Droit, le récepteur, le froid, l’interne, l’inertie, le sédentaire, l’essentiel, le repli, l’expiration.
+Le Ciel/Homme/Sol
+En haut, le Ciel
+En bas, le Sol
+Au milieu, l’Homme
+
+=== le binaire yin/yang
+Le binaire chinois définit le 陰 yin et le 陽 yang comme les emblèmes du féminin et du masculin. Il leur attribue une cohorte de qualités qu’il est important de connaître pour pouvoir aborder ultérieurement l’étude des systèmes symboliques du 5 et du 6 qui précisent l’intimité du couple yin/yang.
+
+陰
+
+La système symbolique qui permette de comprendre et résoudre le problème de la surcharge pondérale est le système des 5 éléments. En médecine chinoise, le système à base 5 est spécialement dédié à la description des fonctions essentielles de l’organisme. Il existe un second système qui calcule par 6 et qui est à l’opposé dédié à la description de l’énergie. L
+
+
+La médecine taoïste dispose de deux systèmes pour décrire les choses de l’Univers, le système 5 et le système 6 ; un pour le yin et le second pour le yang.
 
 
 
-Chacune des choses ou des phénomènes appartenant à ces domaines apparaît liés aux symboles et s'organisent à l'aide des mêmes lois. 
-La tradition taoïste décrit le monde à l'aide d'un ensemble de systèmes symboliques interdépendants. Les symboles de ces différents systèmes sont les chefs de file emblématiques de classifications appartenant à des domaines aussi divers et variés que l'agriculture, l'astronomie, la médecine, la musique, l'art culinaire, la bien-séance. Chacunes des choses appartenant à ces domaines sont relié aux symboles et s'organisent à l'aide des mêmes lois. 
+Chez les chinois, il y a le Yin et le Yang. Il est très facile de les reconnaître et des les situer, le Yin est en bas, à droite et à l’intérieur, le Yang est en haut, à gauche, et à l’extérieur.
+Sur votre avant-bras il y a une face avec des poils, c’est la face yang. La face imberbe à  l’opposé est yin.
+
+
+=== Définition et physiopathologie de l'obésité en médecine chinoise
+
+En médecine taoïste, la surcharge pondérale grasse est le résultat d’un déséquilibre de l’axe horizontal de la loi des 5 éléments qui à pour origine une consommation excessive en aliments associés à l’élément Métal et plus ou moins déficiente en aliments associés aux éléments Bois et Eau.
+Pour préciser la nature ce déséquilibre dans les termes de la loi des 5 éléments, on qualifie ce déséquilibre d’excès vicieux de Métal associé à une carence primitive ou secondaire des éléments Bois et Eau.
+L’excès de l’élément Métal suffit par ailleurs à lui tout seul pour provoquer le déséquilibre et la maladie. Les troubles concernant les deux éléments restants modulent la gravité de ce déséquilibre.
+Seule la rectification judicieuse des apports des différents éléments permet de remettre l’axe Bois-Métal en position correcte et de provoquer l’amaigrissement. D’une manière assez logique, l’importance de la surcharge pondérale est en proportion de l’importance de l’excès et des carences de ces éléments.
 
 
 
+Le signe clinique essentiel de la surcharge pondérale est l’hypertrophie des adipocytes situés au niveau de l’hypoderme du tissu cutané. Cette couche hypodermique joue plusieurs rôles :
+- rôle protecteur : en servant d’amortisseur aux coups extérieurs et aux chutes.
+- rôle d’isolant thermique en hiver
+- rôle plastique en modelant la silhouette en fonction de l'âge, du sexe et de l'état nutritionnel de l'individu
+- rôle énergétique assuré par le stockage de triglycérides au niveau des adipocytes
 
-=== Définition et physiopathologie de l'obesité en médecine chinoise
+En terme de localisation, la surcharge pondérale intéresse aussi d’autres tissus, en l’occurence certaines séreuses comme le péricarde par exemple. Cependant parmi les séreuses, le péritoine qui inclut de nombreux territoires adipocytaires, est plus particulièrement propice au stockage interne. Les quantités stockées au niveau du ventre et de la bedaine peuvent devenir extrêmement  importantes.
+
 
 La surcharge pondérale correspond à une hypertrophie du tissu adipeux. Du point de vue scientifique, le tissu adipeux est donné comme étant situé sous la peau et n'y est pas véritablement relié ne serait-ce qu'en terme de fonction de protection tandis qu'en MTC fait partie intégrante de l'organe peau.
 
 A ce moment, il convient  de préciser l'importance de la notion d'organe ou Tsang (Zang  脏) en MTC.
-Un Tsang est une structure vitale essentielle sans qui aucune vie n'est possible. Leur destruction, ablation est synonyme de mort, instantanée pour certains Tsang, plus tardives pour d'autres mais inéluctable. 
+Un Tsang est une structure vitale essentielle sans qui aucune vie n'est possible. Leur destruction, ablation est synonyme de mort, instantanée pour certains Tsang, plus tardives pour d'autres mais inéluctable.
 Ceci les différencie des Fu, entrailles, qui traitent avec l'extérieur  Les Tsangs, situés profondément au sein de l'organisme, traitant les fonctions  essentielles, parfaitement dirigés vers l'interne sont gouvernés par la loi des 5 éléments.
-
 
 L’obésité, la surcharge pondérale grasse, correspond en médecine chinoise à un déséquilibre caractérisé des deux éléments qui constituent l’axe horizontal de la loi des 5 éléments, les éléments Bois et Métal. La balance entre ces deux éléments est perturbée par l’existence d’un excès vicieux portant sur l’élément Métal associé à une carence plus ou moins prononcée de l’élément Bois et parfois de l’élément Eau.
 
@@ -106,34 +162,23 @@ De fait, un élément vicieux possède évidemment un comportement vicié. Par r
 
 En tant compte des relations entre les éléments du cycle, son traitement est des plus classiques et consiste simplement à carencer l’élément Métal tout en surchargeant les éléments Bois en priorité et Eau secondairement. Ce profil de traitement doit être maintenu jusqu’à retour à la classique carence primitive du Métal, celle-ci bénéficiant ensuite de la prescription d’un classique régime de type Terre, régime équilibré en fonction des saisons, pour être comblée.
 
-A première vue, l’obésité se caractérise essentiellement par un dépôt excessif de triglycérides au niveau de la peau et des séreuses. Ces deux tissus font partie de l’élément Métal. Le chinois n’y va pas quatre chemins, excès dans la peau, excès de l’élément Métal.
-Ces deux tissus, pour des raisons liées surtout à la protection et à la défense contre le froid sont susceptibles de stocker de manière plus ou moins importante le carburant lipidique sous forme de triglycérides stockés dans les adipocytes du panicule sous-cutané et des séreuses. Ce carburant lipidique sera consommé tout au long de l’hiver et du printemps pour faire face au froid et à la disette du moment. La saison du printemps fait germer, l’été fait pousser, la fin d’été fait murir et l’automne recueille. C’est la saison des cueillettes, des moissons et autres vendanges, celle où on mange et on grossit avant l’arrivée de l’hiver et ses froidures. Etre plus gras à la fin de l’automne est normal. Il y a une variation normale de la variation de l’élément Métal qui se produit normalement à l’automne. 
+L’obésité se caractérise essentiellement par un dépôt excessif de triglycérides au niveau de la peau et des séreuses. Ces deux tissus font partie de l’élément Métal. Le chinois n’y va pas quatre chemins, excès dans la peau, excès de l’élément Métal.
+Ces deux tissus, pour des raisons liées surtout à la protection et à la défense contre le froid sont susceptibles de stocker de manière plus ou moins importante le carburant lipidique sous forme de triglycérides stockés dans les adipocytes du panicule sous-cutané et des séreuses. Ce carburant lipidique sera consommé tout au long de l’hiver et du printemps pour faire face au froid et à la disette du moment. La saison du printemps fait germer, l’été fait pousser, la fin d’été fait murir et l’automne recueille. C’est la saison des cueillettes, des moissons et autres vendanges, celle où on mange et on grossit avant l’arrivée de l’hiver et ses froidures. Etre plus gras à la fin de l’automne est normal. Il y a une variation normale de la variation de l’élément Métal qui se produit normalement à l’automne.
 
-La seule manière intelligente de concevoir le problème de la surcharge pondérale est de l’aborder sous l’angle de la gestion de l’énergie du corps humain. 
-Deux éléments sont essentiels dans la gestion de l’énergie du corps humain. L’élément Métal est la réserve de lipides
+En médecine taoïste, la peau est considéré comme l’un des 5 organes ou Tsang. En ce qui concerne la fonction respiratoire, le poumon est le l’organe principal, la peau est l
+Celle-ci assure une partie non négligeable de la fonction respiratoire en association avec l’organe principal ou Tsang qu’est le poumon.
 
+L’excès vicieux de l’élément Métal est reconnaissable au niveau du tissu qu’il atteint au sein de l’organisme, en l’occurence la peau et les séreuses. Ces deux tissus font partie de l’élément Métal. Une des qualités fondamentales de l’élément Métal est qu’il toujours situé à l’extérieur, que sa capacité est d’entourer, d’envelopper, de faire la frontière entre l’extérieur et l’intérieur. Les textes médicaux associent la respiration, le poumon, la peau avec l’élément Métal
 
-
-
-
-
-
+L’hypertrophie du tissu adipeux au sein de ces deux tissus
+L’excès de l’élément Métal est patent du fait que la maladie se caractérise essentiellement par l’hypertrophie du tissu adipeux que constitue une partie fonctionnelle de l’organe qu’est la peau. Celle-ci, comme le poumon - qui n’en n’est que son équivalent interne - fait partie de l’élément Métal qui assure principalement la fonction respiratoire. Etant même essentielle au maintien de la vie, elle est classée dans la catégorie des Tsang, les Organes Vitaux. En-dehors de la fonction respiratoire, elle possède par ailleurs une fonction de protection ; protection contre les agressions mécaniques du milieu extérieur mais aussi et surtout contre les variations thermiques, en particulier le froid.
 
 
+La surcharge pondérale grasse affecte la peau et les séreuses dans le sens d’une hypertrophie des adipocytes qui sont les cellules spécialement dédiés au stockage des triglycérides. Ces tissus, la peau et les séreuses, ont en commun la particularité d’être en surface, d’envelopper, de séparer deux milieux. Le poumon lui aussi, apparaissant un peu comme la peau de l’intérieur fait partie de cette famille.
 
-
-
-
+=== Définition et physiopathologie de l'obésité en médecine scientifique
 
 Du point de vue physiologique le corps humain utilise deux ressources énergétiques pour faire face à ses besoins. Ces deux ressources sont représentées par les glucides et par les lipides. Dans le cadre d’une diète normo-calorique et normo-équilibrée par rapport aux besoins, les protides sont considérés comme nutriments plastiques et ne font pas partie des ressources énergétiques. Ils n’ont ce rôle uniquement lors de périodes particulières comme le jeûne, la dénutrition et au cours d’autres agressions chirurgicales observées en réanimation. Dans ce cas, le corps se « mange » lui-même en détruisant ses propres tissus. Le tissu musculaire en première ligne mais les autres tissus aussi au fur et à mesure du jeûne qui n’est tout compte fait qu’une autolyse.
-
-
-
-
-L’examen des qualités de ces deux ressources montrent qu’à l’instar de l’opposition Bois/Métal des 5 éléments, celles-ci apparaissent systématiquement  asymétriques à l’exception du fait qu’elles aboutissent toutes les deux à la même molécule,
-
-
-
 
 Le glycogène issu du glucose provenant de la digestion des aliments contenant de l’amidon est stocké au niveau du foie et des muscles. Aucune autre cellule n’est douée de cette capacité de stockage et ne peut qu’utiliser le glucose. Le foie stocke le glycogène pour l’ensemble des cellules du corps humain tandis que les cellules musculaires stockent le glycogène uniquement pour elles-mêmes. De par ses deux lieux de stockage spécifiques, le foie et les muscles, on reconnait immédiatement l’appartenance des sucres (glycogène - glucose) à l’élément Bois. A noter que le glycogène représente la forme de stockage au sein des cellules, le glucose qui en est issu n’est que la forme soluble qui permet le transport sanguin et uniquement celui-ci. Pour donner une idée nous n’avons en tout et pour tout que 6 à 10 g de sucre circulant à raison de 6 à 10 litres de sang contenant 1 g de glucose par litre. La quantité journalière de glycogène hépatique et musculaire est de l’ordre de l’ordre 165 g environ dans le cadre d’une alimentation équilibrée de l’ordre de 2400 Kcal/J.
 Les triglycérides apportés par l’alimentation, véhiculés à travers le corps sur les protéines de transport, sont apportés et stockés au sein du tissu adipeux et aussi au niveau des séreuses. Ces deux lieux de stockage spécifiques, la peau et les séreuses, sont représentatifs de l’élément Métal. Il faut préciser que les séreuses peuvent facilement être classées dans l’élément Métal dans le sens où elles représentent « la peau » des organes et sont douées comme la peau de la fonction de protection de l’organe qu’elles entourent (péricarde, plèvre, épiploon).
@@ -199,7 +244,7 @@ La surcharge pondérale correspond à une réserve d’énergie stockée de mani
 Bon okay, c’est un peu à l’emporte-pièce mais c’est concis, imagé et frappé au coin du bon-sens et ça illustre bien la méthode qu’il faut mettre en oeuvre pour maigrir.
 
 J’ai l’habitude d’utiliser l’analogie avec un véhicule et la manière de dépenser son carburant pour faire comprendre ce que représente un amaigrissement parce que cela correspond à des réalités qui sont tangibles aux personnes à qui je m’adresse et surtout parce que cela me permet d’étiqueter ces idées du sceau du bon sens. Et dans ce sens, c’est très clair.
-Il faut se représenter le corps humain comme un véhicule, une automobile par exemple. Dans ce véhicule, on peut reconnaître une structure comme le châssis, les roues, des amortisseurs, l’habitacle avec tout ce qu’il contient, les fauteuils, le tableau de bord avec ses instruments et un moteur qui fournit l’énergie motrice à partir de la combustion du carburant situé dans le réservoir. Par ailleurs, dans un organisme, on peut reconnaître une structure contenant des tissus différents organisés en fonctions, des muscles qui fournissent une énergie motrice à partir de la combustion du carburant qui est stocké dans certains organes comme la peau (tissu adipeux pour le stockage des lipides) et comme le foie et les muscles eux mêmes (tissu hépatique et musculaire pour le stockage des sucres). 
+Il faut se représenter le corps humain comme un véhicule, une automobile par exemple. Dans ce véhicule, on peut reconnaître une structure comme le châssis, les roues, des amortisseurs, l’habitacle avec tout ce qu’il contient, les fauteuils, le tableau de bord avec ses instruments et un moteur qui fournit l’énergie motrice à partir de la combustion du carburant situé dans le réservoir. Par ailleurs, dans un organisme, on peut reconnaître une structure contenant des tissus différents organisés en fonctions, des muscles qui fournissent une énergie motrice à partir de la combustion du carburant qui est stocké dans certains organes comme la peau (tissu adipeux pour le stockage des lipides) et comme le foie et les muscles eux mêmes (tissu hépatique et musculaire pour le stockage des sucres).
 Cette automobile est moderne, elle est hybride, c’est à dire qu’elle utilise deux moteurs. Mais c’est une hybride un peu spéciale, elle n’est pas du type essence/électrique comme c’est habituellement le cas mais essence/diesel. Un gros moteur à essence de type super-carburant couplé à un petit moteur à gasoil, un diesel.
 Il va sans dire que les caractéristiques de ces deux moteurs ainsi que celles de leurs carburants respectifs sont totalement différentes, opposées et complémentaires. C’est ce que nous allons voir en détails après vous avoir demandé d’essayer d’imaginer que la réponse à la question « comment maigrir ? » puisse être du même genre que à la réponse à la question « Eh ! que pourrais-je bien faire pour vider mon réservoir de carburant ? ». Là on est vraiment tenté de répondre sans trop se tromper « C’est simple, mec ! Tu roules sans t’arrêter et tu cesses de passer à la pompe ! Panne sèche assurée ! » C’est précisément cette réponse que nous allons tenter, par analogies successives, de traduire en langage de nutritionniste.
 
@@ -251,7 +296,7 @@ yin : matériel, interne, bas, côté droit,  pesant, statique, essentiel, réce
 
 
 
-La période la plus propice à l’amaigrissement s’étend du début de l’hiver, en gros vers le mois d’octobre et s’étend sur deux saisons, l’hiver et le printemps, jusqu’à la fin du mois d’avril. C’est la période 
+La période la plus propice à l’amaigrissement s’étend du début de l’hiver, en gros vers le mois d’octobre et s’étend sur deux saisons, l’hiver et le printemps, jusqu’à la fin du mois d’avril. C’est la période
 
 
 
@@ -271,12 +316,6 @@ Pour ce qui est de la vision occidentale, nous sommes particulièrement bien doc
 Pour ce qui est de l’approche chinoise, il est impératif de bien connaître la pensée qui sous tend cette vision du monde particulière. C’est une approche beaucoup plus intuitive que déductive qui met à l’oeuvre essentiellement une pensée analogique. Elle apparaît de fait essentiellement comme un corpus de correspondances établies dans tous les domaines.
 Cette médecine traditionnelle est bâtie essentiellement sur l’observation et l’analogie. Son postulat princeps réside dans le fait qu’étant insérés entre Ciel et Sol et d’une certaine manière, le fruit de leur union, notre structure et notre fonctionnement reflète nécessairement ces deux pôles à la fois. Que doit-on distinguer au niveau de ces deux pôles ? Essentiellement des jalons, comme les solstices, les équinoxes dans le Ciel, scandant le temps et des points cardinaux qui s’associent avec ces moments spéciaux du temps. Le sud et le nord avec leurs solstices respectifs, celui d’été et celui d’hiver, le plus chaud et le plus froid puis l’est et l’ouest avec leurs équinoxes respectifs, du printemps et de l’automne, ni chaud, ni froid, se ressemblant plutôt que de s’opposer, même température, même luminosité. Deux pôles opposés et deux pôles plutôt similaires
 
-nous devons nécessairement exprimer dans notre structure et notre fonctionnement  le reflet des structures et du fonctionnement de ces deux pôles 
+nous devons nécessairement exprimer dans notre structure et notre fonctionnement  le reflet des structures et du fonctionnement de ces deux pôles
 
 La méthode analogique qu’utilise le chinois est assez simple. Elle consiste essentiellement à repérer des éléments remarquables dans un système puis à rechercher les éléments remarquables qui leur corresponde dans un autre système.
-
-
-
-
-
-
