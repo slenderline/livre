@@ -1,35 +1,64 @@
-== Abord conjoint de l'obésité à travers la méthode scientifique occidentale et la médecine traditionnelle chinoise.
+=== Préface
+[.text-justify]
+La surcharge pondérale représente un problème de santé publique important. Cette affection chronique représente une source majeure de mortalité précoce. Suivant son degré, le recul de l’espérance de la vie humaine varie de 6 à 15 ans. Du point de vue des traitements, seule la chirurgie bariatrique semble donner de bons résultats à long terme mais cela au prix d’une amputation irréversible souvent drastique et d'un lot d’effets secondaires non négligeables.
+[.text-justify]
+Les solutions médicales et nutritionnelles sont, quant à elles, ridicules, inefficaces, parfois dangereuses et ce depuis des décennies. Les seuls domaines dans lesquels ces solutions excellent sont l’entretien de la confusion, l’extravagance, l’inefficacité et malheureusement le succès médiatique. Force est de constater qu’elles ne sont que le fruit de l’imagination de personnes n’ayant la plupart du temps aucune compétence dans le domaine de la médecine, de la physiologie humaine et surtout de la nutrition, fussent-elles pour certaines, médecins.
+[.text-justify]
+Il est assez consternant par ailleurs de constater qu’aucun chercheur, médecin ou nutritionniste ne soit arrivé jusqu’à maintenant à élaborer une méthode logique simple, compatible avec les données scientifiques actuelles, efficace et sans danger vis à vis de cette affection. De fait, c’est l’existence même de cette carence à cet endroit qui fait depuis longtemps la place aux incompétents au point que désormais  les points de vue erronés sont tellement enracinés dans les habitudes de penser qu'il paraît illusoire d'aller les combattre sur leur propre terrain. Cet état de fait nous laisse donc présager encore pour longtemps de récurrents printemps  apportant annuellement leurs lots de nouveaux régimes farfelus.
+[.text-justify]
+Le propos étant surtout destiné aux professionnels de la santé et de la nutrition, il se peut que cet écrit soit peu propice à la vulgarisation. C’est le cas en effet dans le sens où le vocabulaire des métiers médicaux ainsi que les pré requis en terme de connaissance sur le sujet créent de facto une ségrégation du lectorat. Pour expliciter son propos vis à vis des scientifiques, cet écrit utilise les termes et les notions acquises dès les premières années de médecine, en l’occurence les connaissances fondamentales en biochimie, en physiologie et en nutrition humaine telles qu’elles ont été décrites depuis maintenant un bon demi siècle et qui, de fait, sont désormais solidement établies. En ce qui concerne la Tradition Chinoise, il emprunte à l’ensemble du corpus taoïste.footnote:[Taoisme = Une certaine vision du monde.], mais surtout à la Loi des 5 éléments - chinois simplifié : 五行 ; pinyin : wǔxíng - qui est l’un des grands obligatoires de la médecine chinoise et que l’on définira brièvement comme une structure de catégorisation du monde grâce à une pensée analogique logique.
+[.text-justify]
+Dans sa substance, l'ambition de ce livre tient dans la tentative d'unifier l'aspect scientifique de la médecine occidentale avec l'aspect subjectif des systèmes symboliques de la médecine chinoise. En quelques mots, essayer de voir si ces deux descriptions disposées cote à cote possèdent des choses en commun, anatomiquement et fonctionnellement parlant. La méthode destinée à combler le hiatus entre ces deux visions du monde consistera donc à évoquer les analogies possibles entre les différents éléments remarquables décrits dans chacun des deux systèmes.
+[.text-justify]
+Cependant et avant toute chose, deux points essentiels doivent être abordés. Le premier sera consacré à la redéfinition de certains termes ayant trait à la nutrition. Ceux-ci ont été malheureusement galvaudés et souvent détournés de leur sens au cours des dernières décennies. Leur réhabilitation est essentielle pour une compréhension correcte du phénomène de l'amaigrissement et ne mérite pas d'être escamotée. Le second point consistera de décrire les instruments symboliques du système de pensée taoïste qui serviront à la démonstration et auxquels seront confrontés la plupart des lecteurs d'origine occidentale étant le plus souvent ignorants quant au sujet.
+[.text-justify]
+Ces deux parties ayant été abordées, la suite sera effectivement consacrée à dresser le parallèle entre les deux mondes dont nous avons parlé et de tenter de s'insérer dans l'espace médian, intermédiaire entre ces deux univers, celui de la rationalité et celui plutôt subjectif du taoïsme.
 
-Maigrir & Métal - Tutoriel pour les professionnels de l’amaigrissement.
+=== (Re)définition des termes et du vocabulaire en nutrition
+[.text-justify]
+Il est important, eu égard à la manière dont est évoqué le problème de la surcharge dans l'ensemble des médias, de redéfinir une bonne partie du vocabulaire employé. Certains mots parmi les plus usités, ne correspondent pas à une réalité scientifique. Les termes, maigrir, perdre du poids, mincir, protéines ne sont pas correctement définis et la réalité ne correspond pas du tout à l'idée qu'on s'en fait. Certaines expressions aussi sont, pourrait-on dire, assez irréelles, du point de vue scientifique. Certaines théories, argumentées par des faits scientifiques tacitement admis mais souvent faux, souvent exagérés, détournés de leur contexte, entraînent fréquemment les personnes surchargées pondérales à commettre des méfaits d'ordre nutritionnel à leur organisme en toute ignorance.
+[.text-justify]
+Le couple "maigrir et perdre du poids", les termes IMC (indice de Quetelet) sont des termes de langage qu'il nous faut examiner et redéfinir.
 
-=== Titres envisagés
-En Chine, l’obésité est une maladie de peau.
+Le terme maigrir est employé lorsque la perte de poids se fait aux dépends de la masse grasse. Elle entraîne une diminution de taux de masse grasse qui est le rapport entre la masse grasse et le poids du corps.
+Imaginons une perte de poids se situant plutôt sur la masse maigre, en particulier sur la masse musculaire qui est en première ligne dès que les apports de sucres ne correspondent pas aux besoins de l'organisme. Il est très facile de réaliser ce cas de figure en employant un régime sans féculents, ce qui correspond pratiquement à tous les régimes proposés dans le commmerce qui n'apportent pas une dose correcte de féculents à chaque repas. Dans ce cas, le taux de masse grasse
 
-Traité du zen et de l'entretien des motocyclettes
-Traité du tao et de la perte de poids
-Traité du tao et de l’amaigrissement
-Traité du tao et de l’amincissement
-Traité du tao et de la minceur
-Maigrir - Manuel d’utilisation
-L’obésité, une maladie de peau ?
-Quoique cocasse, cette question mérite réflexion.
-Maigrir - Manuel d’utilisation
-Maigrir au masculin - Manuel d’utilisation.
-L’obésité, une sorte de maladie de peau ?
-Maigrir pour les hommes
-Maigrir mode d’emploi
+Le couple maigrir et perdre du poids.
 
 
-=== Préface 1
+=== Bref rappel du symbolisme chinois
+[.text-justify]
 
-La surcharge pondérale représente un problème de santé publique important. Cette affection chronique représente une source majeure de mortalité précoce. Suivant son degré le recul de l’espérance de vie varie de 6 à 15 ans. Du point de vue des traitements, seule la chirurgie bariatrique semble donner de bons résultats à long terme mais cela au prix d’une amputation irréversible souvent drastique et d’effets secondaires non négligeables.
 
-Les solutions médicales et nutritionnelles sont, quant à elles, ridicules, inefficaces et parfois dangereuses et ce depuis des décennies. Les seuls domaines dans lesquels ces solutions excellent sont l’entretien de la confusion, l’extravagance, l’inefficacité et parfois le succès médiatique. Force est de constater qu’elles ne sont que le fruit de l’imagination de personnes n’ayant la plupart du temps aucune compétence dans le domaine de la médecine, de la physiologie humaine et surtout de la nutrition, fussent-elles pour certaines, médecins.
+Le système de pensée taoïste se donne comme objectif celui de décrire le monde dans son ensemble à l'aide de systèmes symboliques interdépendants.
 
-Il est assez navrant par ailleurs de constater qu’aucun chercheur, médecin ou nutritionniste ne soit arrivé jusqu’à maintenant à élaborer une méthode logique simple, compatible avec les données scientifiques actuelles, efficace et sans danger vis à vis de cette affection. De fait, c’est l’existence même de cette carence à cet endroit qui fait la place aux incompétents. Cet état de fait nous laisse présager encore pour longtemps de récurrents printemps qui apporteront une fois de plus leur lot de nouveaux régimes farfelus et dont le dernier en date qui marque encore les esprits, a quand même laissé quelques insuffisances rénales graves et mortelles derrière lui.
+Le monde taoïste se décrit à l'aide d'un ensemble de systèmes symboliques interdépendants. Les symboles de ces systèmes sont les chefs de file emblématiques de classifications dans des domaines aussi variés que l'agriculture, l'astronomie, la médecine, la musique, l'art culinaire, l'art pictural, la danse, la bien-séance. Dans chacun de ces domaines les choses sont décrites à travers le sytème symbolique et s'organisent suivant ses lois.
+[.text-justify]
+En médecine chinoise, on regarde le monde sous différentes coutures à l’aide d’outils spéciaux que sont les systèmes symboliques. Le taoïsme en dispose de nombreux qui ont la particularité d’être interconnectés les uns aux autres.
+Il est des notions qui sont importantes à connaître pour comprendre ces systèmes symboliques.
+Le Tai Yi, le Un, le Sans Nom
+Le Yin/Yang, le sytème binaire.
+Le Yang c’est le Haut, Le Gauche, l’émetteur, le chaud, l’extérieur, le rapide, le nomade, l’accessoire, l’extension, l’inspiration.
+Le Yin c’est le Bas, Le Droit, le récepteur, le froid, l’interne, l’inertie, le sédentaire, l’essentiel, le repli, l’expiration.
+Le Ciel/Homme/Sol
+En haut, le Ciel
+En bas, le Sol
+Au milieu, l’Homme
 
-Le propos étant surtout destiné aux professionnels de la santé et de la nutrition, il se peut que cet écrit soit peu propice à la vulgarisation. C’est le cas en effet dans le sens où le vocabulaire des métiers médicaux ainsi que les pré requis en terme de connaissance créent de facto une ségrégation du lectorat. Pour expliciter son propos vis à vis des scientifiques, il utilise les termes et les notions acquises dès les premières années de médecine, en l’occurence les connaissances fondamentales en biochimie, en physiologie et en nutrition humaine telles qu’elles ont été décrites depuis maintenant un bon demi siècle et qui, de fait, sont désormais solidement établies. Pour la Tradition Chinoise, il emprunte à l’ensemble du corpus taoïste.footnote:[Taoisme = Une certaine vision du monde.], mais surtout à la Loi des 5 éléments - chinois simplifié : 五行 ; pinyin : wǔxíng - qui est l’un des grands obligatoires de la médecine chinoise et que l’on définira rapidement comme une structure de catégorisation du monde grâce à une pensée analogique logique.
 
+
+
+===== le binaire yin/yang
+Le binaire chinois définit le 陰 yin et le 陽 yang comme les emblèmes du féminin et du masculin. Il leur attribue une cohorte de qualités qu’il est important de connaître pour pouvoir aborder ultérieurement l’étude des systèmes symboliques du 5 et du 6 qui précisent l’intimité du couple yin/yang.
+Le système symbolique qui permette de comprendre et résoudre le problème de la surcharge pondérale est le système des 5 éléments. En médecine chinoise, le système à base 5 est spécialement dédié à la description des fonctions essentielles de l’organisme. Il existe un second système qui calcule par 6 et qui est à l’opposé dédié à la description de l’énergie. L
+
+
+La médecine taoïste dispose de deux systèmes pour décrire les choses de l’Univers, le système 5 et le système 6 ; un pour le yin et le second pour le yang.
+
+
+
+Chez les chinois, il y a le Yin et le Yang. Il est très facile de les reconnaître et des les situer, le Yin est en bas, à droite et à l’intérieur, le Yang est en haut, à gauche, et à l’extérieur.
+Sur votre avant-bras il y a une face avec des poils, c’est la face yang. La face imberbe à  l’opposé est yin.
 === Préface 2
 Maigrir et surtout ne pas reprendre est un projet qui nécessite inévitablement un changement important et définitif des habitudes alimentaires. Ce changement concerne certains groupes d’aliments et de substances qui sont soit exclus ou déconseillés si ils favorisent la prise de poids, soit conseillés si ils font maigrir.
 
@@ -46,18 +75,32 @@ En contre-partie de ces évictions, d’autres groupes d’aliments seront plus 
 Maigrir au masculin ?
 Réglez moi ce carbu !
 
+That is *really strong* stuff!
+
+She spells her name with an "`h`", as in Sara**h**.
+
 Maigrir, c’est comme pour l’essence dans une voiture. Si on veut baisser la jauge, il faut prendre l’autoroute et rouler et rouler, mais en plus, faut oublier de passer à la pompe !
 Cette image à l’emporte-pièce a le mérite d’être simple, concise et surtout frappée au coin du bon-sens. Compréhensible par tout conducteur, elle illustre de manière adéquate le fonctionnement des machines thermiques dont les éléments principaux sont le carburant, le réservoir et le moteur flanqué de son carburateur.
+
 Lorsque l’on assimile l’organisme à une machine thermique, la nourriture représente le carburant et les organes qui utilisent l’énergie contenue dans la nourriture représentent le moteur. Si la quantité de nourriture absorbée dépasse la quantité d’énergie dépensée par les organes, l’organisme met en réserve le surplus en grossissant. Dans le cas contraire, l’organisme puise dans ses réserves en maigrissant.
+
 Ce principe, juste au demeurant si l’on s’en tient aux principes de la thermodynamique, est un peu trop simpliste quand vient le moment de l’appliquer à la machine humaine. La nourriture est un carburant complexe composé d’aliments qui sont totalement différents les uns des autres, ces aliments sont eux-même composés de molécules différentes, des protides, des glucides, des lipides, des oligo-éléments, vitamines, minéraux, etc. En raison de cette complexité, quelle type de substances vais-je privilégier dans ce régime ? Les protides, les lipides, les sucres lents ? les sucres rapides ? Vais-je m’abstenir de manger et faire un jeûne ? un jeûne intermittent ? Combien d’eau faut-il boire ? De quelle manière vais-je dépenser mon énergie ? sport aérobique ?  anaérobique ? lentement et longtemps ou intensif avec de courtes récupérations ? Dois-je aller courir à jeun ? Faut-il manger des féculents le soir ? A quelle heure dois-je manger ? Un lot de questions qui méritent des réponses précises ou mieux, une explication du phénomène que représente l’organisme vu comme une machine thermique compliquée.
+
 Pour décrire cette machine et son fonctionnement, deux abords sont utilisés, celui de la médecine scientifique actuelle et celui de la médecine chinoise traditionnelle.
+
 L’abord scientifique utilise les termes et les notions acquises dès les premières années de médecine, en l’occurence les connaissances fondamentales en biochimie, en physiologie et en nutrition humaine qui sont solidement établies. Il permet de se faire une idée précise de la machine, de comprendre ses mécanismes, ses fonctions, la manière dont ça marche.
+
 L’abord chinois, plus précisément taoïste, issu d’une pensée qui manipule l’analogie de préférence à l’analyse, permet d’intégrer et de comprendre les éléments de la machine humaine et leur fonctionnement sous un angle différent mais parfaitement complémentaire à la démarche scientifique. L’élément principal du corpus taoïste.[1] qui est utilisé pour la compréhension du sujet est la loi des 5 éléments - 五行 (chinois simplifié) ; wǔxíng (pinyin). Ce système symbolique est l’un des grands obligatoires de la médecine chinoise et on le définira rapidement comme une structure de catégorisation du monde grâce à une pensée analogique logique.
+
 La première complexité de la structure humaine vue sous l’angle d’une machine thermique est qu’elle est en fait composée de deux machines thermiques. Celles-ci sont couplées pour tendre ensemble à la même finalité, à savoir produire de l’énergie mais ceci à l’aide de structures, de substances, de quantités, de puissance et de bien d’autres choses encore, très différentes pour chacune des deux machines.
 Cette structure particulière présentant un fonctionnement qui peut paraître complexe, apparaîtra toutefois plus facilement compréhensible aux conducteurs qui font la distinction entre une voiture à essence et une voiture au diesel. Ceci en terme de conduite s’entend, et non de prix à la pompe.
+
 Il faut imaginer la machine humaine comme une voiture hybride. Elle possède deux moteurs mais contrairement aux hybrides actuels de type thermique/électrique, celui de la machine humaine est essence/diesel.
+
 Avec cette voiture le conducteur peut faire face à tout type de conduite. Avec le moteur à essence, il se permet des démarrages fulgurants exploitant la puissance du moteur dès le départ, il profite de la puissance disponible sous l’accélérateur pour dépasser, avaler les virages. Seule l’essence, produit volatil qui s’enflamme facilement dans des moteurs lui permettant de monter dans les tours, permet ce genre de conduite sportive.
+
 Avec le moteur diesel, l’allumage nécessite de faire chauffer la bougie, car le gasoil, dérivé des huile lourdes est plus difficile à enflammer, nécessite d’être chauffé au démarrage. Le moteur ne tourne pas très rapidement mais possède un fort couple à bas et moyen régime, l’idéal pour propulser une confortable berline aux vitesses autorisées pendant de longues heures d’autoroute.
+
 Deux styles de conduite à l’opposé l’une de l’autre avec des carburants différents, des stockages différents, un moteur ne fonctionnant pas de la même manière, pollution différentes.
 
 
@@ -84,14 +127,6 @@ Pour son fonctionnement, le corps humain dispose de deux moteurs différents. Po
 
 |===
 
-=== Bref rappel du symbolisme chinois
-
-Le monde taoïste se décrit à l'aide d'un ensemble de systèmes symboliques interdépendants. Les symboles de ces systèmes sont les chefs de file emblématiques de classifications dans des domaines aussi variés que l'agriculture, l'astronomie, la médecine, la musique, l'art culinaire, l'art pictural, la danse, la bien-séance. Dans chacun de ces domaines les choses sont décrites à travers le sytème symbolique et s'organisent suivant ses lois.
-
-La tradition taoïste décrit le monde à l'aide d'un ensemble de systèmes symboliques interdépendants. Les symboles de ces différents systèmes sont les chefs de file emblématiques de classifications appartenant à des domaines aussi divers et variés que l'agriculture, l'astronomie, la médecine, la musique, l'art culinaire, la bien-séance. Dans chacun de ces domaines, ce sont les mêmes symboles qui oeuvrent et les mêmes lois qui organisent.
-
-Chacune des choses ou des phénomènes appartenant à ces domaines apparaît liés aux symboles et s'organisent à l'aide des mêmes lois.
-La tradition taoïste décrit le monde à l'aide d'un ensemble de systèmes symboliques interdépendants. Les symboles de ces différents systèmes sont les chefs de file emblématiques de classifications appartenant à des domaines aussi divers et variés que l'agriculture, l'astronomie, la médecine, la musique, l'art culinaire, la bien-séance. Chacune des choses appartenant à ces domaines sont relié aux symboles et s'organisent à l'aide des mêmes lois.
 
 
 === Rappels de symbolisme chinois
@@ -99,31 +134,6 @@ Avant d’aborder le problème de la surcharge pondérale, il est nécessaire de
 
 La loi des 5 éléments correspond à l’étude du fonctionnement d’un cycle oscillant en général.
 
-En médecine chinoise, on regarde le monde sous différentes coutures à l’aide d’outils spéciaux que sont les systèmes symboliques. Le taoïsme en dispose de nombreux qui ont la particularité d’être interconnectés les uns aux autres.
-Il est des notions qui sont importantes à connaître pour comprendre ces systèmes symboliques.
-Le Tai Yi, le Un, le Sans Nom
-Le Yin/Yang, le sytème binaire.
-Le Yang c’est le Haut, Le Gauche, l’émetteur, le chaud, l’extérieur, le rapide, le nomade, l’accessoire, l’extension, l’inspiration.
-Le Yin c’est le Bas, Le Droit, le récepteur, le froid, l’interne, l’inertie, le sédentaire, l’essentiel, le repli, l’expiration.
-Le Ciel/Homme/Sol
-En haut, le Ciel
-En bas, le Sol
-Au milieu, l’Homme
-
-=== le binaire yin/yang
-Le binaire chinois définit le 陰 yin et le 陽 yang comme les emblèmes du féminin et du masculin. Il leur attribue une cohorte de qualités qu’il est important de connaître pour pouvoir aborder ultérieurement l’étude des systèmes symboliques du 5 et du 6 qui précisent l’intimité du couple yin/yang.
-
-陰
-
-La système symbolique qui permette de comprendre et résoudre le problème de la surcharge pondérale est le système des 5 éléments. En médecine chinoise, le système à base 5 est spécialement dédié à la description des fonctions essentielles de l’organisme. Il existe un second système qui calcule par 6 et qui est à l’opposé dédié à la description de l’énergie. L
-
-
-La médecine taoïste dispose de deux systèmes pour décrire les choses de l’Univers, le système 5 et le système 6 ; un pour le yin et le second pour le yang.
-
-
-
-Chez les chinois, il y a le Yin et le Yang. Il est très facile de les reconnaître et des les situer, le Yin est en bas, à droite et à l’intérieur, le Yang est en haut, à gauche, et à l’extérieur.
-Sur votre avant-bras il y a une face avec des poils, c’est la face yang. La face imberbe à  l’opposé est yin.
 
 
 === Définition et physiopathologie de l'obésité en médecine chinoise
@@ -319,3 +329,32 @@ Cette médecine traditionnelle est bâtie essentiellement sur l’observation et
 nous devons nécessairement exprimer dans notre structure et notre fonctionnement  le reflet des structures et du fonctionnement de ces deux pôles
 
 La méthode analogique qu’utilise le chinois est assez simple. Elle consiste essentiellement à repérer des éléments remarquables dans un système puis à rechercher les éléments remarquables qui leur corresponde dans un autre système.
+
+== Maigrir et Métal - Tuto
+Abord conjoint de l'obésité à travers la méthode scientifique occidentale et la médecine traditionnelle chinoise
+
+== essais de formatage
+_To tame_ the wild wolpertingers we needed to build a *charm*.
+But **u**ltimate victory could only be won if we divined the *_true name_* of the __war__lock.
+
+"`What kind of charm?`" Lazarus asked. "`An odoriferous one or a mineral one?`"
+
+Kizmet shrugged. "`The note from Olaf's desk says '`wormwood and licorice,`' but these could be normal groceries for werewolves.`"
+
+"`Well the H~2~O formula written on their whiteboard could be part of a shopping list, but I don't think the local bodega sells E=mc^2^,`" Lazarus replied.
+
+You can reference the value of a document attribute using the syntax `+{name}+`, where `name` is the attribute name.
+
+Werewolves are #allergic to cinnamon#. +
+atttention les #yeux#
+Do werewolves believe in [small]#small print#?  +
+[big]##O##nce upon an infinite loop.
+
+=== Titres envisagés
+Maigrir et Métal - Tutoriel +
+En Chine, l’obésité est une maladie de peau +
+Traité du tao et de la perte de poids +
+Traité du tao et de la manière de faire maigrir +
+L’obésité, une maladie de peau ? +
+
+#En médecine chinoise, c'est assez simple. Il y a le Ciel en haut, au-dessus de nos têtes. C'est le 陽 Yang, le plan supérieur, chaleur, vapeurs, mobilité.  En bas, au contraire c'est le Sol, le 陰 Yin, immobile, matériel, substantiel, plutôt froid.#
