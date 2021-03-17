@@ -1,6 +1,6 @@
 === Préface
 [.text-justify]
-La surcharge pondérale représente un problème de santé publique important. Cette affection chronique représente une source majeure de mortalité précoce. Suivant son degré, le recul de l’espérance de la vie humaine varie de 6 à 15 ans. Du point de vue des traitements, seule la chirurgie bariatrique semble donner de bons résultats à long terme mais cela au prix d’une amputation irréversible souvent drastique et d'un lot d’effets secondaires non négligeables.
+La surcharge pondérale représente un problème de santé publique capital. Cette affection chronique représente une source majeure de mortalité précoce. Suivant son degré, le recul de l’espérance de la vie humaine varie de 6 à 15 ans. Du point de vue des traitements, seule la chirurgie bariatrique semble donner de bons résultats à long terme mais cela au prix d’une amputation irréversible souvent drastique et d'un lot d’effets secondaires non négligeables.
 [.text-justify]
 Les solutions médicales et nutritionnelles sont, quant à elles, ridicules, inefficaces, parfois dangereuses et ce depuis des décennies. Les seuls domaines dans lesquels ces solutions excellent sont l’entretien de la confusion, l’extravagance, l’inefficacité et malheureusement le succès médiatique. Force est de constater qu’elles ne sont que le fruit de l’imagination de personnes n’ayant la plupart du temps aucune compétence dans le domaine de la médecine, de la physiologie humaine et surtout de la nutrition, fussent-elles pour certaines, médecins.
 [.text-justify]
@@ -40,10 +40,17 @@ En partant du plus simple au plus compliqué, ces systèmes sont les suivants :
 * le sénaire = les 6 énergies
 * l'octal = le système du Y King
 
-===== le binaire yin/yang
+
+=== Le symbolisme chinois
+==== le binaire yin/yang
+[.text-justify]
+En médecine chinoise, c'est assez simple. Il y a le Ciel en haut, au-dessus de nos têtes. C'est le 陽 Yang, le plan supérieur ethéré, vapeurs, mobilité, plutôt chaud.  En bas, c'est le Sol, le 陰 Yin, le plan inférieur solide, immobile, matériel, substantiel, plutôt froid.
+Etymologiquement, Yang représente le versant d'un colline situé sous les rayons du soleil tandis que le Yin représente le versant ombragé.
+
 Le binaire chinois définit le 陰 yin et le 陽 yang comme les emblèmes du féminin et du masculin. Il leur attribue une cohorte de qualités qu’il est important de connaître pour pouvoir aborder ultérieurement l’étude des systèmes symboliques du 5 et du 6 qui précisent l’intimité du couple yin/yang.
 Le système symbolique qui permette de comprendre et résoudre le problème de la surcharge pondérale est le système des 5 éléments. En médecine chinoise, le système à base 5 est spécialement dédié à la description des fonctions essentielles de l’organisme. Il existe un second système qui calcule par 6 et qui est à l’opposé dédié à la description de l’énergie. L
 
+image::yin.png[]
 
 La médecine taoïste dispose de deux systèmes pour décrire les choses de l’Univers, le système 5 et le système 6 ; un pour le yin et le second pour le yang.
 
@@ -121,10 +128,7 @@ Pour son fonctionnement, le corps humain dispose de deux moteurs différents. Po
 
 
 
-=== Rappels de symbolisme chinois
-Avant d’aborder le problème de la surcharge pondérale, il est nécessaire de mettre à disposition de manière claire les systèmes symboliques qui seront utilisés ultérieurement dans le propos.
 
-La loi des 5 éléments correspond à l’étude du fonctionnement d’un cycle oscillant en général.
 
 
 
@@ -349,4 +353,4 @@ Traité du tao et de la perte de poids +
 Traité du tao et de la manière de faire maigrir +
 L’obésité, une maladie de peau ? +
 
-#En médecine chinoise, c'est assez simple. Il y a le Ciel en haut, au-dessus de nos têtes. C'est le 陽 Yang, le plan supérieur, chaleur, vapeurs, mobilité.  En bas, au contraire c'est le Sol, le 陰 Yin, immobile, matériel, substantiel, plutôt froid.#
+En médecine chinoise, c'est assez simple. Il y a le Ciel en haut, au-dessus de nos têtes. C'est le 陽 Yang, le plan supérieur, chaleur, vapeurs, mobilité.  En bas, au contraire c'est le Sol, le 陰 Yin, immobile, matériel, substantiel, plutôt froid.
