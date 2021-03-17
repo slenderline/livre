@@ -48,9 +48,9 @@ En médecine chinoise, c'est assez simple. Il y a le Ciel en haut, au-dessus de 
 Etymologiquement, Yang représente le versant d'un colline situé sous les rayons du soleil tandis que le Yin représente le versant ombragé.
 
 Le binaire chinois définit le 陰 yin et le 陽 yang comme les emblèmes du féminin et du masculin. Il leur attribue une cohorte de qualités qu’il est important de connaître pour pouvoir aborder ultérieurement l’étude des systèmes symboliques du 5 et du 6 qui précisent l’intimité du couple yin/yang.
-Le système symbolique qui permette de comprendre et résoudre le problème de la surcharge pondérale est le système des 5 éléments. En médecine chinoise, le système à base 5 est spécialement dédié à la description des fonctions essentielles de l’organisme. Il existe un second système qui calcule par 6 et qui est à l’opposé dédié à la description de l’énergie. L
+Le système symbolique qui permette de comprendre et résoudre le problème de la surcharge pondérale est le système des 5 éléments. En médecine chinoise, le système à base 5 est spécialement dédié à la description des fonctions essentielles de l’organisme. Il existe un second système qui calcule par 6 et qui est à l’opposé dédié à la description de l’énergie.
 
-image::yin.png[]
+image::yin_40x44.png[]
 
 La médecine taoïste dispose de deux systèmes pour décrire les choses de l’Univers, le système 5 et le système 6 ; un pour le yin et le second pour le yang.
 
