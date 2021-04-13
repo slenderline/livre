@@ -1,18 +1,21 @@
+:imagesdir: ./pics
 === Préface
 [.text-justify]
-La surcharge pondérale représente un problème de santé publique capital. Cette affection chronique représente une source majeure de mortalité précoce. Suivant son degré, le recul de l’espérance de la vie humaine varie de 6 à 15 ans. Du point de vue des traitements, seule la chirurgie bariatrique semble donner de bons résultats à long terme mais cela au prix d’une amputation irréversible souvent drastique et d'un lot d’effets secondaires non négligeables.
-[.text-justify]
-Les solutions médicales et nutritionnelles sont, quant à elles, ridicules, inefficaces, parfois dangereuses et ce depuis des décennies. Les seuls domaines dans lesquels ces solutions excellent sont l’entretien de la confusion, l’extravagance, l’inefficacité et malheureusement le succès médiatique. Force est de constater qu’elles ne sont que le fruit de l’imagination de personnes n’ayant la plupart du temps aucune compétence dans le domaine de la médecine, de la physiologie humaine et surtout de la nutrition, fussent-elles pour certaines, médecins.
-[.text-justify]
-Il est assez consternant par ailleurs de constater qu’aucun chercheur, médecin ou nutritionniste ne soit arrivé jusqu’à maintenant à élaborer une méthode logique simple, compatible avec les données scientifiques actuelles, efficace et sans danger vis à vis de cette affection. De fait, c’est l’existence même de cette carence à cet endroit qui fait depuis longtemps la place aux incompétents au point que désormais  les points de vue erronés sont tellement enracinés dans les habitudes de penser qu'il paraît illusoire d'aller les combattre sur leur propre terrain. Cet état de fait nous laisse donc présager encore pour longtemps de récurrents printemps  apportant annuellement leurs lots de nouveaux régimes farfelus.
-[.text-justify]
+La surcharge pondérale représente un problème de santé publique capital. Cette affection chronique représente une source majeure de mortalité précoce. Suivant son degré, le recul de l’espérance de la vie humaine varie de 6 à 15 ans. Du point de vue des traitements, seule la chirurgie bariatrique semble donner de bons résultats à long terme mais cela au prix d’une amputation irréversible souvent drastique et d'un lot d’effets secondaires non négligeables. +
+Les solutions médicales et nutritionnelles sont, quant à elles, ridicules, inefficaces, parfois dangereuses et ce depuis des décennies. Les seuls domaines dans lesquels ces solutions excellent sont l’entretien de la confusion, l’extravagance, l’inefficacité et malheureusement le succès médiatique. Force est de constater qu’elles ne sont que le fruit de l’imagination de personnes n’ayant la plupart du temps aucune compétence dans le domaine de la médecine, de la physiologie humaine et surtout de la nutrition, fussent-elles pour certaines, médecins. +
+Il est assez consternant par ailleurs de constater qu’aucun chercheur, médecin ou nutritionniste ne soit arrivé jusqu’à maintenant à élaborer une méthode logique simple, compatible avec les données scientifiques actuelles, efficace et sans danger vis à vis de cette affection. De fait, c’est l’existence même de cette carence à cet endroit qui fait depuis longtemps la place aux incompétents au point que désormais  les points de vue erronés sont tellement enracinés dans les habitudes de penser qu'il paraît illusoire d'aller les combattre sur leur propre terrain. Cet état de fait nous laisse donc présager encore pour longtemps de récurrents printemps  apportant annuellement leurs lots de nouveaux régimes farfelus. +
 Le propos étant surtout destiné aux professionnels de la santé et de la nutrition, il se peut que cet écrit soit peu propice à la vulgarisation. C’est le cas en effet dans le sens où le vocabulaire des métiers médicaux ainsi que les pré requis en terme de connaissance sur le sujet créent de facto une ségrégation du lectorat. Pour expliciter son propos vis à vis des scientifiques, cet écrit utilise les termes et les notions acquises dès les premières années de médecine, en l’occurence les connaissances fondamentales en biochimie, en physiologie et en nutrition humaine telles qu’elles ont été décrites depuis maintenant un bon demi siècle et qui, de fait, sont désormais solidement établies. En ce qui concerne la Tradition Chinoise, il emprunte à l’ensemble du corpus taoïste.footnote:[Taoisme = Une certaine vision du monde.], mais surtout à la Loi des 5 éléments - chinois simplifié : 五行 ; pinyin : wǔxíng - qui est l’un des grands obligatoires de la médecine chinoise et que l’on définira brièvement comme une structure de catégorisation du monde grâce à une pensée analogique logique.
 [.text-justify]
 Dans sa substance, l'ambition de ce livre tient dans la tentative d'unifier l'aspect scientifique de la médecine occidentale avec l'aspect subjectif des systèmes symboliques de la médecine chinoise. En quelques mots, essayer de voir si ces deux descriptions disposées cote à cote possèdent des choses en commun, anatomiquement et fonctionnellement parlant. La méthode destinée à combler le hiatus entre ces deux visions du monde consistera donc à évoquer les analogies possibles entre les différents éléments remarquables décrits dans chacun des deux systèmes.
 [.text-justify]
-Cependant et avant toute chose, deux points essentiels doivent être abordés. Le premier sera consacré à la redéfinition de certains termes ayant trait à la nutrition. Ceux-ci ont été malheureusement galvaudés et souvent détournés de leur sens au cours des dernières décennies. Leur réhabilitation est essentielle pour une compréhension correcte du phénomène de l'amaigrissement et ne mérite pas d'être escamotée. Le second point consistera de décrire les instruments symboliques du système de pensée taoïste qui serviront à la démonstration et auxquels seront confrontés la plupart des lecteurs d'origine occidentale étant le plus souvent ignorants quant au sujet.
-[.text-justify]
+Cependant et avant toute chose, deux points essentiels doivent être abordés. Le premier sera consacré à la redéfinition de certains termes ayant trait à la nutrition. Ceux-ci ont été malheureusement galvaudés et souvent détournés de leur sens au cours des dernières décennies. Leur réhabilitation est essentielle pour une compréhension correcte du phénomène de l'amaigrissement et ne mérite pas d'être escamotée. Le second point consistera de décrire les instruments symboliques du système de pensée taoïste qui serviront à la démonstration et auxquels seront confrontés la plupart des lecteurs d'origine occidentale souvent ignorants ou mal informés du sujet. +
 Ces deux parties ayant été abordées, la suite sera effectivement consacrée à dresser le parallèle entre les deux mondes dont nous avons parlé et de tenter de s'insérer dans l'espace médian, intermédiaire entre ces deux univers, celui de la rationalité et celui plutôt subjectif du taoïsme.
+
+=== L'obésité en médecine chinoise.
+[.text-justify]
+En médecine chinoise, le diagnostic que l'on pose à propos de l'obésité est celui d'un déséquilibre portant sur l'axe horizontal de la loi des 5 éléments. Ce déséquilibre correspond à un excès de l'élément Métal associé à une carence plus ou moins prononcée de l'élément Bois. C'est une maladie chronique qui dure tant que l'élément Métal est privilégié au sein de l'alimentation. Son traitement est simple et facile à appliquer. En suivant les règles inhérentes à la loi des 5 éléments, il consiste, outre le fait de ramener l'élément Métal à son strict minimum en l'excluant, de prescrire un régime de type Bois/Eau indispensable pour ramener l'élément Métal dans une position plus physiologiquement acceptable.
+
+image::desequilibre_axe_horizontal.png[]
 
 === (Re)définition des termes et du vocabulaire en nutrition
 [.text-justify]
@@ -21,13 +24,29 @@ Il est important, eu égard à la manière dont est évoqué le problème de la 
 Le couple "maigrir et perdre du poids", les termes IMC (indice de Quetelet) sont des termes de langage qu'il nous faut examiner et redéfinir.
 
 Le terme maigrir est employé lorsque la perte de poids se fait aux dépends de la masse grasse. Elle entraîne une diminution de taux de masse grasse qui est le rapport entre la masse grasse et le poids du corps.
-Imaginons une perte de poids se situant plutôt sur la masse maigre, en particulier sur la masse musculaire qui est en première ligne dès que les apports de sucres ne correspondent pas aux besoins de l'organisme. Il est très facile de réaliser ce cas de figure en employant un régime sans féculents, ce qui correspond pratiquement à tous les régimes proposés dans le commmerce qui n'apportent pas une dose correcte de féculents à chaque repas. Dans ce cas, le taux de masse grasse
+Imaginons une perte de poids se situant plutôt sur la masse maigre, en particulier sur la masse musculaire qui est en première ligne dès que les apports de sucres ne correspondent pas aux besoins de l'organisme. Il est très facile de réaliser ce cas de figure en employant un régime sans féculents, ce qui correspond pratiquement à tous les régimes proposés dans le commerce qui n'apportent pas une dose correcte de féculents à chaque repas. Dans ce cas, le taux de masse grasse
 
 Le couple maigrir et perdre du poids.
 
-
-=== Bref rappel du symbolisme chinois
+=== Définitions de l'obésité dans les deux systèmes.
 [.text-justify]
+L'obésité correspond à l'hypertrophie des adipocytes de l’hypoderme de la peau. Cette couche hypodermique du tissu adipeux possèdent deux rôles essentiels, celui de protéger l'organisme contre les chocs physiques et contre le froid, celui de constituer une réserve énergétique d'autre part. Il convient d'ajouter que les séreuses de l'organisme, en particulier le péricarde et le mésentère subissent une hypertrophie similaire au cours de la surcharge pondérale. Ces feuillets d'épithélium ont exactement le même rôle que l'hypoderme de la peau en terme de protection des organes auxquels ils sont associés.
+La médecine chinoise fait exactement les mêmes constatations en terme de symptômes de la maladie mais sa conclusion et son diagnostic va plus loin.
+
+
+=== Le symbolisme chinois
+[.text-justify]
+Le système de pensée taoïste décrit le monde et l'être humain à l'aide de symboles qui relient les choses du monde à celles de l'être humain de manière analogique. Il possède pour ce faire plusieurs systèmes symboliques qui explicitent chacun de leur point de vue, les rapports du Yin et du Yang.
+Pour commencer il faut situer le binaire. C'est simple. Le Ciel en haut, source de lumière et de vie, vapeurs chaudes et ascendantes, c'est le Yang. En bas, le Sol, la matière concrète, plus froide en profondeur, la matrice, c'est le Yin. Le Yang émetteur, de son influx fécondateur insémine le Sol. Une multitude de choses sort de la matrice et vient s'insérer entre Ciel et Sol, le phénomène vital appelé par les chinois sous le vocable des 10000 êtres. Chacune de ces choses ressemble à son père et à sa mère et elles l'expriment de manière plus ou moins à travers ses traits en fonction de son degré dans l'évolution. L'être humain possède lui aussi des structures qui rappellent celles du Ciel et des structures qui s'apparentent à celles de sa mère, le Sol.
+
+
+
+
+Le système symbolique taoïste est dédié à la description du Yin/Yang. Le pôle céleste, le Ciel est Yang. Le pôle terrestre, le Sol est Yin. L'Energie en tant qu'élément fécondant émanant du Ciel insémine le Sol et dans la matrice terrestre sort un élément hybride qui ressemble à ses parents en exprimant par sa structure des éléments qui proviennent du Yang et d'autres du Yang.
+
+Le premier système symbolique taoïste correspond à la description du binaire Yin/Yang. Ce symbole décrit à la fois le contenu, l'opposition, la complémentarité et les mutations du Yin et du Yang.
+
+
 Le système taoïste décrit le monde à l'aide de systèmes symboliques interdépendants.
 Les symboles de chacun de ces systèmes sont les chefs de file emblématiques de classifications dans des domaines aussi variés que l'agriculture, l'astronomie, la médecine, la musique, l'art culinaire, l'art pictural, la danse, la bien-séance.
 [.text-justify]
@@ -40,17 +59,106 @@ En partant du plus simple au plus compliqué, ces systèmes sont les suivants :
 * le sénaire = les 6 énergies
 * l'octal = le système du Y King
 
-
-=== Le symbolisme chinois
 ==== le binaire yin/yang
 [.text-justify]
-En médecine chinoise, c'est assez simple. Il y a le Ciel en haut, au-dessus de nos têtes. C'est le 陽 Yang, le plan supérieur ethéré, vapeurs, mobilité, plutôt chaud.  En bas, c'est le Sol, le 陰 Yin, le plan inférieur solide, immobile, matériel, substantiel, plutôt froid.
-Etymologiquement, Yang représente le versant d'un colline situé sous les rayons du soleil tandis que le Yin représente le versant ombragé.
+En médecine chinoise,
+le symbolisme est là pour nous éclairer sur la dualité du couple Yin/Yang. En premier lieu, il convient de repérer et d'inventorier ce qui convient au Yin et ce qui convient au Yang. Le Yin étant le principe féminin, le Yang le principe masculin, on obtient par analogie la liste de leurs attributs respectifs. Cette énumération ci-dessous récapitule ce qu'il faut connaître des oppositions pour une juste compréhension .
+|===
+| #Yang# | #Yin#
+| masculin | féminin
+| haut | bas
+| gauche | droite
+| avant | arrière
+| externe | interne
+| accessoire | essentiel
+| actif | passif
+| mobile | immobile
+| nomade | cultivateur
+| chaleur | froid
+| lumineux | sombre
+| expansion | contraction
+| intuition | rationalité
+| analogie | logique
+|===
+L'étude du monde chinois débute par la notion du Yin/Yang
+
+image::symbole_yin_yang_40x40.png[]
+
+
+En médecine chinoise, le symbolisme requis pour la compréhension est assez facile à aborder. Il est composé de trois systèmes différents interdépendants. Le premier système décrit la dualité, le 2, c'est le système symbolique du Yin/Yang. Les deux autres ne sont là que pour décrire le premier système, le Yin/Yang, plus en profondeur et d'après deux points de vue différents. Ces deux systèmes sont d'une part les 5 Eléments et d'autre part, les 6 Energies.
+
+
+
+
+
+
+
+
+En haut il y a le Ciel, en bas il y a le Sol. Le Ciel c'est le domaine du Yang, chaud, clair, éthéré comme la vapeur qui monte sous le chaleur. Le Sol, c'est le domaine du Yin, la matière plus froide, noire, dure et solide. Ce sont les deux pôles extrêmes de la dualité Yin/Yang. Ce couple reçoit de la part de la littérature de nombreuses descriptions bien codifiées que l'on se doit de connaître si on veut aborder le problème et qui sont résumées dans le tableau ci-dessous.
+
+On rassemblent les choses qui vont ensemble dans deux catégories, le Yin et le Yang. Il y a le Ciel en haut, au-dessus de nos têtes, c'est le 陽 Yang, le plan supérieur éthéré, vapeurs et mobilité, plutôt chaud.  En bas, c'est le Sol, le 陰 Yin, le plan inférieur solide, immobile, matériel, substantiel, plutôt froid. Etymologiquement, Yang représente le versant d'une colline situé sous les rayons du soleil tandis que le Yin représente le versant ombragé.
+Ce binaire est facilement observable dans tout phénomène. Leurs qualités sont résumées dans le tableau ci-dessous.
+
+|===
+| #Yang# | #Yin#
+| masculin | féminin
+| haut | bas
+| gauche | droite
+| avant | arrière
+| externe | interne
+| accessoire | essentiel
+| actif | passif
+| mobile | immobile
+| nomade | cultivateur
+| chaleur | froid
+| lumineux | sombre
+| expansion | contraction
+| intuition | rationalité
+| analogie | logique
+|===
+
+[.text-justify]
+Pour être aisément compréhensible, la pensée chinoise et des lois du système taoïste doivent être abordés en gardant bien à l'esprit la notion d'analogie. Cette méthode de pensée consiste  à distinguer des ressemblances entre certaines qualités d'objets différents. Elle est facile à mettre en oeuvre d'autant plus que l'on sera doué d'un peu d'intuition et du sens des proportions. L'objet principal sur lequel se concentre ces lois est le couple Yin/Yang. Le Yang principe masculin en opposition au Yin, principe féminin.
+
+La description du phénomène yin/yang s'effectue grâce à des systèmes symboliques différents et interdépendants qui offrent des points de vue différents. Ils permettent de disséquer la complexité de la valeur et du fonctionnement des deux symboles lors de l'alternance.
+
+Les systèmes symboliques qu'il faut connaître pour savoir les utiliser sont les suivants :
+
+* le binaire : Yin/yang
+* le ternaire : La triade = Ciel / Homme / Sol
+* le quinaire : La loi des 5 éléments
+* le sénaire : les 6 énergies
+* l'octal : les 8 trigrammes - le Y King
+
+Dans chacun de ces systèmes, le couple Yin/yang sera examiné de différents point de vue
+
+
+
+
+Ces systèmes concourent à décrire les phénomènes et les choses du monde sous des différents points de vue.
+
+
+Le plus petit niveau consiste à étudier le chiffre 2 qui est le niveau le plus facilement abordable.
+
+
+Au plus petit niveau, elle consiste à tenter de distinguer le deux, de voir le mode sous forme binaire, à rechercher les choses opposées.
+
+
+
+Imaginons une grand sac qui peut contenir. Ceci constitue un système qui est délimité par une frontière bien définie.
+Dans un système donné vivant, les phénomènes qui appartiennent à ce système suivent les lois internes de celui-ci.
+Le passage de zéro à l'infini se produit lorsque le phénomène de mutualisation apparaît.
+
+
+
 
 Le binaire chinois définit le 陰 yin et le 陽 yang comme les emblèmes du féminin et du masculin. Il leur attribue une cohorte de qualités qu’il est important de connaître pour pouvoir aborder ultérieurement l’étude des systèmes symboliques du 5 et du 6 qui précisent l’intimité du couple yin/yang.
 Le système symbolique qui permette de comprendre et résoudre le problème de la surcharge pondérale est le système des 5 éléments. En médecine chinoise, le système à base 5 est spécialement dédié à la description des fonctions essentielles de l’organisme. Il existe un second système qui calcule par 6 et qui est à l’opposé dédié à la description de l’énergie.
 
 image::yin_40x44.png[]
+
+image::symbole_yin_yang_40x40.png[]
+
 
 La médecine taoïste dispose de deux systèmes pour décrire les choses de l’Univers, le système 5 et le système 6 ; un pour le yin et le second pour le yang.
 
@@ -347,10 +455,23 @@ Do werewolves believe in [small]#small print#?  +
 [big]##O##nce upon an infinite loop.
 
 === Titres envisagés
-Maigrir et Métal - Tutoriel +
-En Chine, l’obésité est une maladie de peau +
-Traité du tao et de la perte de poids +
-Traité du tao et de la manière de faire maigrir +
+[.text-justify]
+En médecine chinoise, l'obésité se définit comme le résultat d'un déséquilibre portant sur l'axe horizontal de la loi des 5 éléments. Ce déséquilibre est constitué par un excès de l'élément Métal associé à une carence plus ou moins prononcée de l'élément Bois. +
+Ce déséquilibre est le résultat d'une alimentation exagérément centrée sur le Métal et insuffisamment sur le Bois. C'est une maladie chronique qui peut être la principale raison d'une surcharge pondérale. Parfois elle peut s'aggraver, l'excès de l'élément Métal pouvant passer en excès vicieux.
+Son traitement est classique, simple et facile à appliquer. En suivant les règles inhérentes à la loi des 5 éléments, il consiste, outre le fait de ramener l'élément Métal à son strict minimum, de prescrire un régime de type Bois/Eau indispensable pour ramener l'élément excessif dans une valeur physiologiquement plus acceptable. Une fois l'équilibre rétabli, il convient de prescrire un régime équilibré de type Terre, nécessairement variable avec les saisons pour conserver l'acquis.
+
+Le Tsang ou organe qui est reliée à cet élément Métal est dédiée à la respiration. L'ensemble des fonctions qui lui sont attribuées corps humain, il ent
+
+
+Maigrir et Métal - Tutoriel. +
+En Chine, l’obésité est une maladie de peau. +
+Traité du tao et de la perte de poids. +
+Traité du tao et de la manière de faire maigrir. +
 L’obésité, une maladie de peau ? +
+Régime du Tao. +
+Traité du zen et de l'entretien des motocyclettes. +
+Traité du Tao et de l'amaigrissement. +
+Traité du Tao et de l'amincissement des corps. +
+
 
 En médecine chinoise, c'est assez simple. Il y a le Ciel en haut, au-dessus de nos têtes. C'est le 陽 Yang, le plan supérieur, chaleur, vapeurs, mobilité.  En bas, au contraire c'est le Sol, le 陰 Yin, immobile, matériel, substantiel, plutôt froid.
