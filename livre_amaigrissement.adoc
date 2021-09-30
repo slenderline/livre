@@ -1,19 +1,119 @@
 :imagesdir: ./pics
-=== Préface
+
+[.text-center]
+==== L'obésité est un excès de métal!
 [.text-justify]
-La surcharge pondérale représente un problème de santé publique capital. Cette affection chronique représente une source majeure de mortalité précoce. Suivant son degré, le recul de l’espérance de la vie humaine varie de 6 à 15 ans. Du point de vue des traitements, seule la chirurgie bariatrique semble donner de bons résultats à long terme mais cela au prix d’une amputation irréversible souvent drastique et d'un lot d’effets secondaires non négligeables. +
-Les solutions médicales et nutritionnelles sont, quant à elles, ridicules, inefficaces, parfois dangereuses et ce depuis des décennies. Les seuls domaines dans lesquels ces solutions excellent sont l’entretien de la confusion, l’extravagance, l’inefficacité et malheureusement le succès médiatique. Force est de constater qu’elles ne sont que le fruit de l’imagination de personnes n’ayant la plupart du temps aucune compétence dans le domaine de la médecine, de la physiologie humaine et surtout de la nutrition, fussent-elles pour certaines, médecins. +
-Il est assez consternant par ailleurs de constater qu’aucun chercheur, médecin ou nutritionniste ne soit arrivé jusqu’à maintenant à élaborer une méthode logique simple, compatible avec les données scientifiques actuelles, efficace et sans danger vis à vis de cette affection. De fait, c’est l’existence même de cette carence à cet endroit qui fait depuis longtemps la place aux incompétents au point que désormais  les points de vue erronés sont tellement enracinés dans les habitudes de penser qu'il paraît illusoire d'aller les combattre sur leur propre terrain. Cet état de fait nous laisse donc présager encore pour longtemps de récurrents printemps  apportant annuellement leurs lots de nouveaux régimes farfelus. +
-Le propos étant surtout destiné aux professionnels de la santé et de la nutrition, il se peut que cet écrit soit peu propice à la vulgarisation. C’est le cas en effet dans le sens où le vocabulaire des métiers médicaux ainsi que les pré requis en terme de connaissance sur le sujet créent de facto une ségrégation du lectorat. Pour expliciter son propos vis à vis des scientifiques, cet écrit utilise les termes et les notions acquises dès les premières années de médecine, en l’occurence les connaissances fondamentales en biochimie, en physiologie et en nutrition humaine telles qu’elles ont été décrites depuis maintenant un bon demi siècle et qui, de fait, sont désormais solidement établies. En ce qui concerne la Tradition Chinoise, il emprunte à l’ensemble du corpus taoïste.footnote:[Taoisme = Une certaine vision du monde.], mais surtout à la Loi des 5 éléments - chinois simplifié : 五行 ; pinyin : wǔxíng - qui est l’un des grands obligatoires de la médecine chinoise et que l’on définira brièvement comme une structure de catégorisation du monde grâce à une pensée analogique logique.
+===== Préface
+
+L'ambition de cet opuscule tient dans la tentative d'unifier les points de vue de la médecine occidentale et de la médecine chinoise sur le point très précis de la surcharge pondérale d'origine nutritionnelle. Ce sujet est certainement la pathognomonie la plus propice à mettre en évidence les liens entre la description occidentale du phénomène et son versus chinois.  +
+
+Pour expliciter son propos du point de vue scientifique, il utilise les termes et les notions acquises dans les premières années de médecine, en l’occurence les connaissances fondamentales en biochimie, en physiologie et en nutrition humaine telles qu’elles ont été décrites depuis maintenant un bon siècle et demi et qui, de fait, sont désormais solidement établies. +
+En ce qui concerne la Tradition Chinoise, il emprunte à l’ensemble du corpus taoïste.footnote:[Taoisme = Une certaine vision du monde.], mais surtout à la Loi des 5 éléments - chinois simplifié : 五行 ; pinyin : wǔxíng - qui est l’un des grands obligatoires de la médecine chinoise et que l’on définira brièvement comme une structure de catégorisation du monde issue de la logique de la pensée analogique.
+
 [.text-justify]
-Dans sa substance, l'ambition de ce livre tient dans la tentative d'unifier l'aspect scientifique de la médecine occidentale avec l'aspect subjectif des systèmes symboliques de la médecine chinoise. En quelques mots, essayer de voir si ces deux descriptions disposées cote à cote possèdent des choses en commun, anatomiquement et fonctionnellement parlant. La méthode destinée à combler le hiatus entre ces deux visions du monde consistera donc à évoquer les analogies possibles entre les différents éléments remarquables décrits dans chacun des deux systèmes.
+La surcharge pondérale correspond à mauvaise gestion des réserves énergétiques du corps humain. Le fonctionnement de l'organisme dépend de deux filières énergétiques différentes, la filière glucidique et la filière lipidique. Celles-ci possédant des caractéristiques opposées sont par conséquent, complémentaires. Ce que l'une fait, l'autre ne le fait pas et réciproquement. Par conséquence, le déploiement de ces deux filières de manière opportune couvrent l'ensemble des besoins de l'organisme.
+
+Ces deux filières énergétiques englobent des ressources extérieures différentes, leur assimilation par le biais de la digestion et une absorption bien spécifiques, leur zone de stockage elle aussi bien définies, leur déstockage et leur redistribution à travers une forme de transport sanguin particulière jusqu'à leur utilisation au sein de la mitochondrie où les substrats sont brûlés lors du processus oxydatif. +
+
+Leurs différences font leur complémentarité. Ce que fait l'une, l'autre ne le fait pas et inversement. En conséquence, leurs déploiements couvrent l'ensemble des besoins de l'organisme. Elles correspondent précisément pour l'une à la filière des sucres ou glucides et pour la seconde à celle des graisses ou lipides. +
+
+Dans le tableau ci-dessous sont décrites les principales caractéristiques de ces deux filières.
+|===
+
+| ressources énergétiques | glucides | lipides
+
+| stockage | foie | peau et séreuses
+
+| mise en oeuvre | rapide et instantanée | lente et tardive
+
+| réserves | faibles | d'importantes à énormes
+
+| proportions de l'énergie totale | 70% | 30%
+
+| forme de stockage | http://jean-jacques.auclair.pagesperso-orange.fr/polysaccharides/glycogene.htm[glycogène] = très grosse structure chimique)| triglycérides (molécule relativement petite)
+
+| mise en circulation sanguine | glucose libre | liée à des protéines de transport
+
+| métabolisme oxydatif| auto-suffisant | lié à celui des glucides
+
+|===
+
+L'obésité correspond un déséquilibre de l'élément Métal. Certes, ce genre d'assertion destinée à vous surprendre par son incongruité mérite toutefois quelques explications pour se rendre crédible. Auriez vous évoqué ce point de vue avec une autre personne, il y a de grandes chances qu'il n'en n'aurait pas compris tout autant que vous mais avec un médecin chinois, il en aurait été différemment. Celui-ci aurait réfléchi quelques secondes avant d'acquiescer avec un sourire. Il vous aurait ensuite expliqué qu'à la l'aune de la médecine taoïste, la peau appartient au Métal, un des 5 éléments de la loi éponyme. Cet élément qui régente la respiration assure ses fonctions à l'aide d'organes divers dont les plus nobles sont les poumons et la peau.
+
+et dans laquelle elle est catégorisée, au même titre que le poumon en tant que Tsang de cet élément. +
+
+
+Il vous aurait ensuite expliqué que l'élément Métal règne à l'automne, la période de 90 jours qui commence au milieu de l'année, vers le 5 août et qui dure jusque début novembre. Cette période de l'année est l'époque des moissons, des récoltes et des abattages. C'est l'occasion de s'empiffrer pour être un peu plus gras avant d'aborder l'hiver, la saison de l'élément Eau, l'élément  qui suit chronologiquement le Métal comme l'hiver suit l'automne. +
+La période du Métal est donc celle où s'effectue la prise de poids nécessaire à la survie au cours de la période suivante, l'hiver, au cours duquel l'abstinence et le froid vont régner. Le tissu adipeux créé accumulé au niveau de l'hypoderme sous forme d'adipocytes, constitue à la fois un réservoir d'énergie et un revêtement isolant contre le froid. A l'instar du trappeur canadien qui accumule ses bûches contre les murs de sa cabane dans la forêt. +
+
+Allant ensuite plus loin dans le diagnostic, il aurait ensuite expliqué que la couche de gras excessive constatée chez un obèse n'est en fait que la traduction visible d'un excès se situant au niveau même de l'élément. La surcharge pondérale correspond à un excès de l'élément Métal. L'excès d'un élément est une affaire bien connue de la médecine chinoise qui possède tout l'attirail pour remédier à ce genre de problème.
+
+Le terme Tsang en médecine chinoise, qualifie un organe indispensable à la vie. Un Tsang est habilité à traiter l'intérieur yin donc essentiel. Les Tsangs s'associent de manière incongrue avec les entrailles, les Fous, les "magasins" qui traitent avec l'extérieur yang donc accessoire et pour lesquels l'ablation ne coûte pas la vie. C'est dire l'importance des organes et celui du métal, peau et poumon, en particulier. +
+Il vous aurait certainement expliqué ensuite que l'élément Métal est l'élément qui règne à l'automne, la période qui commence au milieu de l'année, vers le 5 août et qui dure jusque début novembre, soit trois mois. L'automne est l'époque des moissons, des récoltes et des abattages. C'est l'occasion de s'empiffrer pour être un peu plus gras avant d'aborder l'hiver, la saison de l'élément Eau, l'élément  qui suit chronologiquement le Métal comme l'hiver suit l'automne. +
+En gros, c'est simple, la période Métal est la plus propice à faire grossir et le moment où on le plus intérêt à être gras est début novembre. Il faut dire qu'à l'époque il n'y avait pas de conserves, de congélateurs, ni de chauffage central. Le gras créé lors de cette période s'accumulant au niveau de l'hypoderme de la peau sous forme d'adipocytes, fait de celle-ci un réservoir d'énergie en même temps qu'un revêtement isolant contre le froid. Un peu comme l'habitant d'une cabane qui accumule son bois sec contre les murs de sa maison. +
+
+
+Pour ce médecin chinois, le diagnostic de l'obésité est le suivant : déséquilbre de l'axe (Bois - Métal) de la loi des 5 éléments avec un élément Métal en excès vicieux et un élément Bois en carence. La résolution de ce problème est simple. Elle consiste dans un premier temps à ramener l'excès de Métal à sa carence primitive par le biais d'une éviction complète de cet élément et d'y associer  un surdosage thérapeutique des éléments Bois et Eau. Dans un second temps, on ramène la carence primitive à la normalité en prescrivant un régime équilibré de type Terre.
+
+
+
+
+
+
 [.text-justify]
-Cependant et avant toute chose, deux points essentiels doivent être abordés. Le premier sera consacré à la redéfinition de certains termes ayant trait à la nutrition. Ceux-ci ont été malheureusement galvaudés et souvent détournés de leur sens au cours des dernières décennies. Leur réhabilitation est essentielle pour une compréhension correcte du phénomène de l'amaigrissement et ne mérite pas d'être escamotée. Le second point consistera de décrire les instruments symboliques du système de pensée taoïste qui serviront à la démonstration et auxquels seront confrontés la plupart des lecteurs d'origine occidentale souvent ignorants ou mal informés du sujet. +
-Ces deux parties ayant été abordées, la suite sera effectivement consacrée à dresser le parallèle entre les deux mondes dont nous avons parlé et de tenter de s'insérer dans l'espace médian, intermédiaire entre ces deux univers, celui de la rationalité et celui plutôt subjectif du taoïsme.
+===== Historique
+[.text-justify]
+L'importance de la nutrition dans certaines pathologies humaines chroniques est plus que sous-estimée. Elle nous est apparue évidente après la découverte de corrélations entre ces pathologies et un profil nutritionnel particulier dont la caractéristique principale réside dans l'excès de la tonalité Métal qu'il présente. Le point commun des pathologies associées à ce profil nutritionnel de type Métal est le fait qu'elles se manifestent toutes exclusivement dans les tissus analogiquement catégorisés dans cet élément.
+Soit par ordre d'importance, Fei, le poumon, le Tsang du Métal, avec des affections ORL chroniques et P'i, la peau avec la surcharge pondérale; Ta Tch'ang, le gros intestin, le Fou du Métal, l'entraille, avec les colites et les constipations ; les tendons, tissus associés au Métal avec toutes les tendinites, PASH et SPA comprises ainsi que les lombalgies et les sciatiques. Toutes ces pathologies présentaient un profil nutritionnel en rapport acec cet élément.
+|===
+
+| Fei | poumon | affections ORL
+| P'i | peau | obésité
+| Ta Tch'ang | gros intestin | colite - constipation
+| 肌腱 Jījiàn | tendons | tendinites - PASH - sciatiques
+
+|===
+Du point de vue thérapeutique, un changement nutritionnel radical apporté par un régime dont le profil au niveau des éléments a été corrigé se solde dans la majorité des cas par des résultats extrêmement favorables, confirmant de fait l'analogie. La correction appliquée au profil est calculée en conformité avec les lois qui régissent les 5 éléments (cycle de production, cycle de domination et notion d'excès vicieux). La rectification nutritionnelle est élimine donc l'étiologie nutritionnelle de la pathologie concernée mais il peut parfois exister, du fait de la chronicité, des soins qui s'adressent aux symptômes qui peuvent avoir entraîné des cercles vicieux qui parfois sont difficiles à faire disparaître. Si l'étiologie nutritionnelle est prépondérante et les traitements symptomatiques peu évolués, la guérison est souvent obtenue.
+
+
+
+
+[.text-justify]
+En médecine chinoise, l'Etre humain est le résultat de l'union du Ciel (天 Tiān)  de nature Yang avec le Sol (地 De) de nature Yin, une sorte d'hybride Yin/Yang situé en zone intermédiaire qui ressemble à son père et à sa mère. Pour répondre à cela, il possède des structures qui répondent au Ciel et des structures qui répondent au Sol.
+Pour mettre en évidence ces structures, le chinois utilise les systèmes symboliques. Le plan supérieur Yang, Le Ciel compte par 6, 2x6 le duodénaire et le cycle sexagésimal, c'est le domaine des 6 énergies. Le Yin, le Sol compte par 5, les 5 Eléments, soit les 5 Orients et le Centre, 2x5, le sytème dénaire.
+[.text-justify]
+天
+地
+Tiān
+de
+天空
+地面
+Tiānkōng
+dìmiàn
+
+
+[.text-justify]
+Il est assez consternant par ailleurs de constater qu’aucun chercheur, médecin ou nutritionniste ne soit arrivé jusqu’à maintenant à élaborer une méthode logique simple, compatible avec les données scientifiques actuelles, efficace et sans danger vis à vis de cette affection. De fait, c’est l’existence même de cette carence à cet endroit qui fait depuis longtemps la place aux incompétents au point que désormais les points de vue erronés sont tellement enracinés dans les habitudes de penser qu'il paraît illusoire d'aller les combattre sur leur propre terrain. Cet état de fait nous laisse donc présager encore pour longtemps de récurrents printemps apportant annuellement leurs lots de nouveaux régimes farfelus. +
+
+
+
+
+[.text-justify]
+Dans le corps humain, en cas de surcharge pondérale, c'est principalement la peau qui est affectée par la maladie et qui présente le symptôme, une hypertrophie des adipocytes de la couche hypodermique de la peau due à un excès de stockage de graisses dans l'organisme. En dehors de la peau, les séreuses qui enveloppent nos organes intérieurs et dont certaines comme le péricarde et surtout le péritoine ont elles aussi la capacité de stocker les lipides.
+La fonction du tissu adipeux est plurielle. Il joue le rôle de réservoir énergétique ainsi que d'isolant thermique en ce qui concerne la peau et de protection des organes ainsi que de remplissage pour les séreuses péricardique, mésentérique et rétro-péritonéale.
+
 
 === L'obésité en médecine chinoise.
 [.text-justify]
-En médecine chinoise, le diagnostic que l'on pose à propos de l'obésité est celui d'un déséquilibre portant sur l'axe horizontal de la loi des 5 éléments. Ce déséquilibre correspond à un excès de l'élément Métal associé à une carence plus ou moins prononcée de l'élément Bois. C'est une maladie chronique qui dure tant que l'élément Métal est privilégié au sein de l'alimentation. Son traitement est simple et facile à appliquer. En suivant les règles inhérentes à la loi des 5 éléments, il consiste, outre le fait de ramener l'élément Métal à son strict minimum en l'excluant, de prescrire un régime de type Bois/Eau indispensable pour ramener l'élément Métal dans une position plus physiologiquement acceptable.
+La loi des 5 éléments est l'outil indispensable pour comprendre ce que représente l'obésité en médecine chinoise +
+L'obésité en tant que maladie chronique dont l'alimentation est un des causes principales atteint essentiellement l'organe peau
+La loi des cinq éléments propose de classer les choses et les phénomènes du monde dans cinq classes appelées éléments. Dans chacune des classes, les choses sont liées entre-elles par analogie et peuvent s'étager en terme de matérialité, des plus substantielles (Sol) aux plus subtiles (Ciel). +
+
+
+
+
+
+En médecine chinoise, le diagnostic que l'on pose à propos de l'obésité est celui d'un déséquilibre portant sur l'axe horizontal de la loi des 5 éléments. Ce déséquilibre correspond à un excès de l'élément Métal associé à une carence plus ou moins prononcée de l'élément Bois. C'est une maladie chronique qui dure tant que l'élément Métal est privilégié au sein de l'alimentation. Son traitement est simple et facile à appliquer. En suivant les règles inhérentes à la loi des 5 éléments, il consiste à ramener l'élément Métal à sa carence primitive en l'excluant et en prescrivant un régime de type Bois/Eau puis ensuite de ramener la carence primitive à l'état normal en prescrivant un régime de type Terre.
 
 image::desequilibre_axe_horizontal.png[]
 
@@ -30,14 +130,71 @@ Le couple maigrir et perdre du poids.
 
 === Définitions de l'obésité dans les deux systèmes.
 [.text-justify]
+Il faut comprendre dès le départ que le problème de l'obésité est un problème lié à l'énergie, aux carburants que nous utilisons pour la fabriquer, aux réservoirs que nous possédons pour les stocker, à la manière dont ceux-ci sont véhiculés dans l'organisme vers les zones d'utilisation, leurs combustions lors de l'oxydation mitochondriale, leurs déchets et leurs évacuations.
+
+
+
+Le corps humain assure son fonctionnement grâce à deux ressources énergétiques, celle des glucides et celle des lipides. Ces deux types de molécules riches en atomes de carbone et d'hydrogène sont susceptibles d'être oxydées au sein de la mitochondrie cellulaire en fournissant de l'eau, du dioxyde de carbone et de l'énergie entreposée dans de l'ATP.
+Ces deux carburants qu'utilise l'organisme pour son fonctionnement, s'ils aboutissent bien au même endroit du métabolisme, possèdent cependant des structures et des parcours totalement différents en ce qui concerne leur production, leur assimilation, leur digestion, leur stockage, leur mise en circulation, leur transport jusqu'à la cellule et leur métabolisme intra-cellulaire. Nous allons détailler les caractéristiques de ces rubriques et les juxtaposerons afin d'en bien voir les différences.
+
+==== Les sucres / glucides
+
+Les glucides appartiennent à une groupe chimique particulier contenant une grande variété de molécules qui jouent un grand rôle dans l'organisme.
+Les sucres simples sont de petites molécules à 5 ou 6 carbones. Le glucose en est l'ose principal. C'est sous cette forme de molécule de glucose libre, sans transporteur, que le sucre est véhiculé dans le sang. Mais avant d'être véhiculé de telle manière ce sucre a une vie antérieure bien particulière.
+Le point de départ de ce parcours est l'amidon. Cette molécule est synthétisée dans les grains d’amyloplastes des cellules végétales. Elle représente le substrat nutritif de la graine destiné à sa phase de vie initiale avant enracinement de la plante. C'est du sucre ou plus précisement un polymère de glucose.
+
+|===
+
+| ressources d'énergie | glucides | lipides
+
+| stockage | foie | peau et séreuses
+
+| mise en oeuvre | rapide et instantanée | lente et tardive
+
+| réserves | petites | très importantes jusqu'à énormes
+
+| importance | 70% | 30%
+
+| molécule de stockage | http://jean-jacques.auclair.pagesperso-orange.fr/polysaccharides/glycogene.htm[glycogène] (énorme)| triglycérides (petite)
+
+| mise en circulation | libre | liée à des protéines de transport
+
+| métabolisme | autonome | lié aux glucides
+
+|===
+
+
 L'obésité correspond à l'hypertrophie des adipocytes de l’hypoderme de la peau. Cette couche hypodermique du tissu adipeux possèdent deux rôles essentiels, celui de protéger l'organisme contre les chocs physiques et contre le froid, celui de constituer une réserve énergétique d'autre part. Il convient d'ajouter que les séreuses de l'organisme, en particulier le péricarde et le mésentère subissent une hypertrophie similaire au cours de la surcharge pondérale. Ces feuillets d'épithélium ont exactement le même rôle que l'hypoderme de la peau en terme de protection des organes auxquels ils sont associés.
 La médecine chinoise fait exactement les mêmes constatations en terme de symptômes de la maladie mais sa conclusion et son diagnostic va plus loin.
+
+=== Le symbolisme chinois - rappel rapide
+Le système taoïste décrit le monde et l'homme grâce à des différents systèmes symboliques qui concourent tous à montrer les rapports du Yin et du Yang sous des aspects différents. Partant du point de vue que Jen, l'Homme, est le fruit de l'union de Tien, le Ciel et de Tou, le Sol, l'union du Yin et du Yang, penser qu'il existe dans sa structure des traits caractéristiques de son père et de sa mère n'est pas absurde.
+Pour le Ciel, le domaine de Yang, L'Energie, le symbole est le cercle et le nombre symbolique est le 6 et tout le système duodénaire.
+Pour le Sol, le Yin matériel et des substances, le symbole est la croix, le nombre symbolique le 5 et tout le système dénaire.
+Pour l'Homme, l'entre-deux, l'intermédiaire, les symboles sont le système de trigrammes du Ciel Antérieur dit de Fou Hi et le sytème de trigrammes du Ciel Postérieur dit de Wen Wang.
+
+
 
 
 === Le symbolisme chinois
 [.text-justify]
+La pensée taoïste décrit le monde et l'être humain à travers les analogies qu'elle détecte, qu'elle dénombre, qu'elle repère entre les deux mondes. Elle part du principe que Jen, l'Homme, est le fruit de l'union de Tien, le Ciel, Yang et de Tou, le Sol, Yin. Inséré entre ces deux plans, L'Homme possède au moins trois structures qui répondent chacune respectivement au Ciel, au Sol et à lui même. Dans l'optique d'être une réplique analogique de l'Univers, l'Homme possède donc au moins un plan supérieur qui répond au Ciel, un plan intermédiaire qui correspond à l'Homme et un plan inférieur qui correspond au Sol.
+Chacun de ses plans est décrit par un système symbolique qui lui est propre et parfaitement adapté. +
+Au plan supérieur Yang, correspondant au Ciel, le symbole est le cercle, le nombre 6 et le système duodénaire qui en découle. C'est le domaine de l'énergie.
+Au plan inférieur Yin correspondant au Sol, Le symbole est la croix constituée des 4 orients et du centre en constitue le symbole, le nombre 5 et le système dénaire qui fonctionne. C'est le domaine de l'espace, des choses matérielles et des substances.
+
+
+
+[.text-justify]
+L'homme est le résultat de l'union du Ciel et du Sol après que l'influx céleste Yang ait fécondé la matrice terrestre Yin. En tant que tel, inséré entre ces deux plans, l'homme présente au niveau de son architecture des ressemblances avec son père et avec sa mère. Certaines de ses structures sont en rapport analogique avec le Ciel tandis que d'autres le sont avec le Sol.
+Dans le système taoïste, ce sont les jalons qui servent à déterminer les symboles. Les jalons du Ciel sont les jalons du temps et se comptent de manière sexagésimale, c'est le nombre 6 qui est le nombre guide de ce plan. Les jalons du Sol sont les jalons de l'espace, soit le nombre 5 qui correspond aux quatre orients additionnés du centre.
+C'est l'étude des variations du Yin et du Yang qui permet de bien comprendre comment ces différents systèmes s'interpénètrent.
+Il existe deux schémas de variation du Yin/Yang, celle dite de Fou-Hi et celle différente, du Roi Wen. L'une est appelée disposition du Ciel antérieur, la seconde du Ciel postérieur.
+Ces deux plateaux se superposent, disposition Fou Hi au-dessus et disposition Wen Wang en bas.
+
+[.text-justify]
 Le système de pensée taoïste décrit le monde et l'être humain à l'aide de symboles qui relient les choses du monde à celles de l'être humain de manière analogique. Il possède pour ce faire plusieurs systèmes symboliques qui explicitent chacun de leur point de vue, les rapports du Yin et du Yang.
-Pour commencer il faut situer le binaire. C'est simple. Le Ciel en haut, source de lumière et de vie, vapeurs chaudes et ascendantes, c'est le Yang. En bas, le Sol, la matière concrète, plus froide en profondeur, la matrice, c'est le Yin. Le Yang émetteur, de son influx fécondateur insémine le Sol. Une multitude de choses sort de la matrice et vient s'insérer entre Ciel et Sol, le phénomène vital appelé par les chinois sous le vocable des 10000 êtres. Chacune de ces choses ressemble à son père et à sa mère et elles l'expriment de manière plus ou moins à travers ses traits en fonction de son degré dans l'évolution. L'être humain possède lui aussi des structures qui rappellent celles du Ciel et des structures qui s'apparentent à celles de sa mère, le Sol.
+Pour commencer il faut situer le binaire. C'est simple. Le Ciel en haut, source de lumière et de vie, vapeurs chaudes et ascendantes, c'est le Yang. En bas, le Sol, la matière concrète, plus froide en profondeur, la matrice, c'est le Yin. Le Yang émetteur, de son influx fécondateur insémine le Sol. Une multitude de choses sort de la matrice et vient s'insérer entre Ciel et Sol, le phénomène vital appelé par les chinois sous le vocable des 10000 êtres. Chacune de ces choses ressemble à son père et à sa mère et elles expriment cette ressemblance à travers ses traits en fonction de son degré dans l'évolution. L'être humain possède lui aussi des structures qui rappellent celles du Ciel et des structures qui s'apparentent à celles de sa mère, le Sol.
 
 
 
@@ -48,7 +205,7 @@ Le premier système symbolique taoïste correspond à la description du binaire 
 
 
 Le système taoïste décrit le monde à l'aide de systèmes symboliques interdépendants.
-Les symboles de chacun de ces systèmes sont les chefs de file emblématiques de classifications dans des domaines aussi variés que l'agriculture, l'astronomie, la médecine, la musique, l'art culinaire, l'art pictural, la danse, la bien-séance.
+Les symboles de chacun de ces systèmes sont les chefs de file emblématiques de classifications dans des domaines aussi variés que l'agriculture, l' , la médecine, la musique, l'art culinaire, l'art pictural, la danse, la bien-séance.
 [.text-justify]
 En partant du plus simple au plus compliqué, ces systèmes sont les suivants :
 
@@ -96,7 +253,7 @@ En médecine chinoise, le symbolisme requis pour la compréhension est assez fac
 
 En haut il y a le Ciel, en bas il y a le Sol. Le Ciel c'est le domaine du Yang, chaud, clair, éthéré comme la vapeur qui monte sous le chaleur. Le Sol, c'est le domaine du Yin, la matière plus froide, noire, dure et solide. Ce sont les deux pôles extrêmes de la dualité Yin/Yang. Ce couple reçoit de la part de la littérature de nombreuses descriptions bien codifiées que l'on se doit de connaître si on veut aborder le problème et qui sont résumées dans le tableau ci-dessous.
 
-On rassemblent les choses qui vont ensemble dans deux catégories, le Yin et le Yang. Il y a le Ciel en haut, au-dessus de nos têtes, c'est le 陽 Yang, le plan supérieur éthéré, vapeurs et mobilité, plutôt chaud.  En bas, c'est le Sol, le 陰 Yin, le plan inférieur solide, immobile, matériel, substantiel, plutôt froid. Etymologiquement, Yang représente le versant d'une colline situé sous les rayons du soleil tandis que le Yin représente le versant ombragé.
+On rassemblent les choses qui vont ensemble dans deux catégories, le Yin et le Yang. Il y a le Ciel en haut, au-dessus de nos têtes, c'est le 陽 Yang, le plan supérieur éthéré, vapeurs et mobilité, plutôt chaud. En bas, c'est le Sol, le 陰 Yin, le plan inférieur solide, immobile, matériel, substantiel, plutôt froid. Etymologiquement, Yang représente le versant d'une colline situé sous les rayons du soleil tandis que le Yin représente le versant ombragé.
 Ce binaire est facilement observable dans tout phénomène. Leurs qualités sont résumées dans le tableau ci-dessous.
 
 |===
@@ -118,7 +275,7 @@ Ce binaire est facilement observable dans tout phénomène. Leurs qualités sont
 |===
 
 [.text-justify]
-Pour être aisément compréhensible, la pensée chinoise et des lois du système taoïste doivent être abordés en gardant bien à l'esprit la notion d'analogie. Cette méthode de pensée consiste  à distinguer des ressemblances entre certaines qualités d'objets différents. Elle est facile à mettre en oeuvre d'autant plus que l'on sera doué d'un peu d'intuition et du sens des proportions. L'objet principal sur lequel se concentre ces lois est le couple Yin/Yang. Le Yang principe masculin en opposition au Yin, principe féminin.
+Pour être aisément compréhensible, la pensée chinoise et des lois du système taoïste doivent être abordés en gardant bien à l'esprit la notion d'analogie. Cette méthode de pensée consiste à distinguer des ressemblances entre certaines qualités d'objets différents. Elle est facile à mettre en oeuvre d'autant plus que l'on sera doué d'un peu d'intuition et du sens des proportions. L'objet principal sur lequel se concentre ces lois est le couple Yin/Yang. Le Yang principe masculin en opposition au Yin, principe féminin.
 
 La description du phénomène yin/yang s'effectue grâce à des systèmes symboliques différents et interdépendants qui offrent des points de vue différents. Ils permettent de disséquer la complexité de la valeur et du fonctionnement des deux symboles lors de l'alternance.
 
@@ -165,7 +322,7 @@ La médecine taoïste dispose de deux systèmes pour décrire les choses de l’
 
 
 Chez les chinois, il y a le Yin et le Yang. Il est très facile de les reconnaître et des les situer, le Yin est en bas, à droite et à l’intérieur, le Yang est en haut, à gauche, et à l’extérieur.
-Sur votre avant-bras il y a une face avec des poils, c’est la face yang. La face imberbe à  l’opposé est yin.
+Sur votre avant-bras il y a une face avec des poils, c’est la face yang. La face imberbe à l’opposé est yin.
 === Préface 2
 Maigrir et surtout ne pas reprendre est un projet qui nécessite inévitablement un changement important et définitif des habitudes alimentaires. Ce changement concerne certains groupes d’aliments et de substances qui sont soit exclus ou déconseillés si ils favorisent la prise de poids, soit conseillés si ils font maigrir.
 
@@ -175,7 +332,7 @@ Parmi les groupes d’aliments à exclure ou diminuer en terme de quantité et f
 
 parce ils rassemblent des aliments et substances qui font grossir en augmentant l’apport d’acides gras saturés. Cette augmentation peut se faire de plusieurs manières. Soit directement en étant de même nature, soit indirectement en favorisant leur absorption, soit enfin en étant transformés en acides gras saturés à l’intérieur même de l’organisme.
 
-En contre-partie de ces évictions, d’autres groupes d’aliments seront plus que favorisées. On serait tenté de dire qu’ils deviendraient obligatoires, ce qui n’est pas faux. Les aliments qui composent ces groupes sont tous des féculents. Ils représentent la source incontournable d’amidon pour l’organisme. Leur emploi dans les régimes, longtemps déconseillé dans  à la fois par l’autorité médicale - les fameux 3P - mais aussi par les habitudes de la population et surtout de la presse spécialisé, est en passe, petit à petit à être réhabilité au fur et à mesure des années. Il est temps de les mettre à la place qui leur conviennent.
+En contre-partie de ces évictions, d’autres groupes d’aliments seront plus que favorisées. On serait tenté de dire qu’ils deviendraient obligatoires, ce qui n’est pas faux. Les aliments qui composent ces groupes sont tous des féculents. Ils représentent la source incontournable d’amidon pour l’organisme. Leur emploi dans les régimes, longtemps déconseillé dans à la fois par l’autorité médicale - les fameux 3P - mais aussi par les habitudes de la population et surtout de la presse spécialisé, est en passe, petit à petit à être réhabilité au fur et à mesure des années. Il est temps de les mettre à la place qui leur conviennent.
 
 
 === Préface 3
@@ -191,7 +348,7 @@ Cette image à l’emporte-pièce a le mérite d’être simple, concise et surt
 
 Lorsque l’on assimile l’organisme à une machine thermique, la nourriture représente le carburant et les organes qui utilisent l’énergie contenue dans la nourriture représentent le moteur. Si la quantité de nourriture absorbée dépasse la quantité d’énergie dépensée par les organes, l’organisme met en réserve le surplus en grossissant. Dans le cas contraire, l’organisme puise dans ses réserves en maigrissant.
 
-Ce principe, juste au demeurant si l’on s’en tient aux principes de la thermodynamique, est un peu trop simpliste quand vient le moment de l’appliquer à la machine humaine. La nourriture est un carburant complexe composé d’aliments qui sont totalement différents les uns des autres, ces aliments sont eux-même composés de molécules différentes, des protides, des glucides, des lipides, des oligo-éléments, vitamines, minéraux, etc. En raison de cette complexité, quelle type de substances vais-je privilégier dans ce régime ? Les protides, les lipides, les sucres lents ? les sucres rapides ? Vais-je m’abstenir de manger et faire un jeûne ? un jeûne intermittent ? Combien d’eau faut-il boire ? De quelle manière vais-je dépenser mon énergie ? sport aérobique ?  anaérobique ? lentement et longtemps ou intensif avec de courtes récupérations ? Dois-je aller courir à jeun ? Faut-il manger des féculents le soir ? A quelle heure dois-je manger ? Un lot de questions qui méritent des réponses précises ou mieux, une explication du phénomène que représente l’organisme vu comme une machine thermique compliquée.
+Ce principe, juste au demeurant si l’on s’en tient aux principes de la thermodynamique, est un peu trop simpliste quand vient le moment de l’appliquer à la machine humaine. La nourriture est un carburant complexe composé d’aliments qui sont totalement différents les uns des autres, ces aliments sont eux-même composés de molécules différentes, des protides, des glucides, des lipides, des oligo-éléments, vitamines, minéraux, etc. En raison de cette complexité, quelle type de substances vais-je privilégier dans ce régime ? Les protides, les lipides, les sucres lents ? les sucres rapides ? Vais-je m’abstenir de manger et faire un jeûne ? un jeûne intermittent ? Combien d’eau faut-il boire ? De quelle manière vais-je dépenser mon énergie ? sport aérobique ? anaérobique ? lentement et longtemps ou intensif avec de courtes récupérations ? Dois-je aller courir à jeun ? Faut-il manger des féculents le soir ? A quelle heure dois-je manger ? Un lot de questions qui méritent des réponses précises ou mieux, une explication du phénomène que représente l’organisme vu comme une machine thermique compliquée.
 
 Pour décrire cette machine et son fonctionnement, deux abords sont utilisés, celui de la médecine scientifique actuelle et celui de la médecine chinoise traditionnelle.
 
@@ -214,25 +371,7 @@ Deux styles de conduite à l’opposé l’une de l’autre avec des carburants 
 
 Pour son fonctionnement, le corps humain dispose de deux moteurs différents. Pour facilité la compréhension, il est intéressant de créer une analogie entre ces deux moteurs et les motorisations essence et diesel que nous trouvons dans nos véhicules.
 
-|===
 
-| ressources d'énergie | glucides | lipides
-
-| stockage | foie | peau & séreuses
-
-| mise en oeuvre | rapide & instantanée | lente & tardive
-
-| réserves | petites | très importantes jusqu'à énormes
-
-| importance | 70% | 30%
-
-| molécule de stockage | http://jean-jacques.auclair.pagesperso-orange.fr/polysaccharides/glycogene.htm[glycogène] (énorme)| triglycérides (petite)
-
-| mise en circulation | libre | liée à des protéines
-
-| métabolisme | indépendant | lié aux glucides
-
-|===
 
 
 
@@ -242,8 +381,7 @@ Pour son fonctionnement, le corps humain dispose de deux moteurs différents. Po
 
 === Définition et physiopathologie de l'obésité en médecine chinoise
 
-En médecine taoïste, la surcharge pondérale grasse est le résultat d’un déséquilibre de l’axe horizontal de la loi des 5 éléments qui à pour origine une consommation excessive en aliments associés à l’élément Métal et plus ou moins déficiente en aliments associés aux éléments Bois et Eau.
-Pour préciser la nature ce déséquilibre dans les termes de la loi des 5 éléments, on qualifie ce déséquilibre d’excès vicieux de Métal associé à une carence primitive ou secondaire des éléments Bois et Eau.
+
 L’excès de l’élément Métal suffit par ailleurs à lui tout seul pour provoquer le déséquilibre et la maladie. Les troubles concernant les deux éléments restants modulent la gravité de ce déséquilibre.
 Seule la rectification judicieuse des apports des différents éléments permet de remettre l’axe Bois-Métal en position correcte et de provoquer l’amaigrissement. D’une manière assez logique, l’importance de la surcharge pondérale est en proportion de l’importance de l’excès et des carences de ces éléments.
 
@@ -255,14 +393,14 @@ Le signe clinique essentiel de la surcharge pondérale est l’hypertrophie des 
 - rôle plastique en modelant la silhouette en fonction de l'âge, du sexe et de l'état nutritionnel de l'individu
 - rôle énergétique assuré par le stockage de triglycérides au niveau des adipocytes
 
-En terme de localisation, la surcharge pondérale intéresse aussi d’autres tissus, en l’occurence certaines séreuses comme le péricarde par exemple. Cependant parmi les séreuses, le péritoine qui inclut de nombreux territoires adipocytaires, est plus particulièrement propice au stockage interne. Les quantités stockées au niveau du ventre et de la bedaine peuvent devenir extrêmement  importantes.
+En terme de localisation, la surcharge pondérale intéresse aussi d’autres tissus, en l’occurence certaines séreuses comme le péricarde par exemple. Cependant parmi les séreuses, le péritoine qui inclut de nombreux territoires adipocytaires, est plus particulièrement propice au stockage interne. Les quantités stockées au niveau du ventre et de la bedaine peuvent devenir extrêmement importantes.
 
 
 La surcharge pondérale correspond à une hypertrophie du tissu adipeux. Du point de vue scientifique, le tissu adipeux est donné comme étant situé sous la peau et n'y est pas véritablement relié ne serait-ce qu'en terme de fonction de protection tandis qu'en MTC fait partie intégrante de l'organe peau.
 
-A ce moment, il convient  de préciser l'importance de la notion d'organe ou Tsang (Zang  脏) en MTC.
+A ce moment, il convient de préciser l'importance de la notion d'organe ou Tsang (Zang 脏) en MTC.
 Un Tsang est une structure vitale essentielle sans qui aucune vie n'est possible. Leur destruction, ablation est synonyme de mort, instantanée pour certains Tsang, plus tardives pour d'autres mais inéluctable.
-Ceci les différencie des Fu, entrailles, qui traitent avec l'extérieur  Les Tsangs, situés profondément au sein de l'organisme, traitant les fonctions  essentielles, parfaitement dirigés vers l'interne sont gouvernés par la loi des 5 éléments.
+Ceci les différencie des Fu, entrailles, qui traitent avec l'extérieur Les Tsangs, situés profondément au sein de l'organisme, traitant les fonctions essentielles, parfaitement dirigés vers l'interne sont gouvernés par la loi des 5 éléments.
 
 L’obésité, la surcharge pondérale grasse, correspond en médecine chinoise à un déséquilibre caractérisé des deux éléments qui constituent l’axe horizontal de la loi des 5 éléments, les éléments Bois et Métal. La balance entre ces deux éléments est perturbée par l’existence d’un excès vicieux portant sur l’élément Métal associé à une carence plus ou moins prononcée de l’élément Bois et parfois de l’élément Eau.
 
@@ -300,59 +438,10 @@ Nous disposons donc de deux ressources énergétiques, les sucres et les graisse
 La surcharge pondérale correspond à une réserve d’énergie stockée de manière excessive au sein du tissu adipeux sous-cutané et au sein des viscères par le biais des séreuses correspond donc à un excès de Métal.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 中国五行和肥胖
 金
 木
 金属木材
-
-
-
-
-
-
-
-
-
-
 
 « Maigrir, c’est pareil que dans une voiture. Si tu veux faire baisser le niveau dans le réservoir, tu prends l’autoroute et puis tu roules, dans le genre tu t’arrêtes pas, mais en plus, faut pas passer à la pompe ! »
 Bon okay, c’est un peu à l’emporte-pièce mais c’est concis, imagé et frappé au coin du bon-sens et ça illustre bien la méthode qu’il faut mettre en oeuvre pour maigrir.
@@ -363,74 +452,25 @@ Cette automobile est moderne, elle est hybride, c’est à dire qu’elle utilis
 Il va sans dire que les caractéristiques de ces deux moteurs ainsi que celles de leurs carburants respectifs sont totalement différentes, opposées et complémentaires. C’est ce que nous allons voir en détails après vous avoir demandé d’essayer d’imaginer que la réponse à la question « comment maigrir ? » puisse être du même genre que à la réponse à la question « Eh ! que pourrais-je bien faire pour vider mon réservoir de carburant ? ». Là on est vraiment tenté de répondre sans trop se tromper « C’est simple, mec ! Tu roules sans t’arrêter et tu cesses de passer à la pompe ! Panne sèche assurée ! » C’est précisément cette réponse que nous allons tenter, par analogies successives, de traduire en langage de nutritionniste.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Le sujet principal de ce livre est la médecine chinoise. Pour explorer correctement celle-ci il est important d’expliquer dès le départ le type de notions que vous allez rencontrer.
 Le type principal des notions utilisées en médecine chinoise est de nature symbolique. Les relations qui lient ces notions entre elles sont déduites par analogie. Les méthodes qui permettent d’utiliser ces notions sont des méthodes paradoxales.
-
-
-
-
-
-
 
 
 
 L’étude du yin/yang est fondamentale pour la compréhension de la médecine chinoise. Ces deux termes définissent les deux pôles entre lesquels oscille le phénomène vivant. Le yin est de nature femelle, réceptif, moins mobile, moins rapide mais endurant. Le Yang est de nature mâle, émetteur, plus mobile, plus rapide mais rapidement épuisé. Le yin est à l’intérieur, le yang à l’extérieur. Le Yang est en haut à gauche et en avant, le yin est en bas à droite et en arrière.
 
 Comprendre le Yin/Yang est fondamental. La première compréhension est facile d’abord. Elle consiste à repérer dans l’ensemble des choses qui nous entourent le caractère yin ou yang des propriétés qu’elles possèdent. Ceci doit se faire sur la base de notions basiques de la classification qui doivent être apprises et retenues. Ces bases fondamentales sont les suivantes :
-yin : matériel, interne, bas, côté droit,  pesant, statique, essentiel, réceptif,
-
-
-
-
-
+yin : matériel, interne, bas, côté droit, pesant, statique, essentiel, réceptif,
 
 
 La période la plus propice à l’amaigrissement s’étend du début de l’hiver, en gros vers le mois d’octobre et s’étend sur deux saisons, l’hiver et le printemps, jusqu’à la fin du mois d’avril. C’est la période
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Il peut être tentant d’essayer de comprendre le problème de l’obésité en essayant d’accorder les visions que l’ont peut avoir de ce déséquilibre, à travers les prismes respectifs de la pensée chinoise et de la science occidentale. Ceci dans le domaine de la médecine et plus particulièrement à celui de la nutrition.
 Pour ce qui est de la vision occidentale, nous sommes particulièrement bien documentés à travers des sources scientifiques dûment établies, vérifiées et considérées comme acquises. Nous aurons besoin de ces notions dans la compréhension du propos. Elles appartiennent pour la plupart aux domaines de l’anatomie, de la physiologie, de la physiopathologie, de la biochimie, de l’ergonomie et encore bien d’autres aspects.
 Pour ce qui est de l’approche chinoise, il est impératif de bien connaître la pensée qui sous tend cette vision du monde particulière. C’est une approche beaucoup plus intuitive que déductive qui met à l’oeuvre essentiellement une pensée analogique. Elle apparaît de fait essentiellement comme un corpus de correspondances établies dans tous les domaines.
 Cette médecine traditionnelle est bâtie essentiellement sur l’observation et l’analogie. Son postulat princeps réside dans le fait qu’étant insérés entre Ciel et Sol et d’une certaine manière, le fruit de leur union, notre structure et notre fonctionnement reflète nécessairement ces deux pôles à la fois. Que doit-on distinguer au niveau de ces deux pôles ? Essentiellement des jalons, comme les solstices, les équinoxes dans le Ciel, scandant le temps et des points cardinaux qui s’associent avec ces moments spéciaux du temps. Le sud et le nord avec leurs solstices respectifs, celui d’été et celui d’hiver, le plus chaud et le plus froid puis l’est et l’ouest avec leurs équinoxes respectifs, du printemps et de l’automne, ni chaud, ni froid, se ressemblant plutôt que de s’opposer, même température, même luminosité. Deux pôles opposés et deux pôles plutôt similaires
 
-nous devons nécessairement exprimer dans notre structure et notre fonctionnement  le reflet des structures et du fonctionnement de ces deux pôles
+nous devons nécessairement exprimer dans notre structure et notre fonctionnement le reflet des structures et du fonctionnement de ces deux pôles
 
 La méthode analogique qu’utilise le chinois est assez simple. Elle consiste essentiellement à repérer des éléments remarquables dans un système puis à rechercher les éléments remarquables qui leur corresponde dans un autre système.
 
@@ -451,7 +491,7 @@ You can reference the value of a document attribute using the syntax `+{name}+`,
 
 Werewolves are #allergic to cinnamon#. +
 atttention les #yeux#
-Do werewolves believe in [small]#small print#?  +
+Do werewolves believe in [small]#small print#? +
 [big]##O##nce upon an infinite loop.
 
 === Titres envisagés
@@ -472,6 +512,99 @@ Régime du Tao. +
 Traité du zen et de l'entretien des motocyclettes. +
 Traité du Tao et de l'amaigrissement. +
 Traité du Tao et de l'amincissement des corps. +
+Traité du Métal ou l'obésité est une maladie de peau. +
 
 
-En médecine chinoise, c'est assez simple. Il y a le Ciel en haut, au-dessus de nos têtes. C'est le 陽 Yang, le plan supérieur, chaleur, vapeurs, mobilité.  En bas, au contraire c'est le Sol, le 陰 Yin, immobile, matériel, substantiel, plutôt froid.
+En médecine chinoise, c'est assez simple. Il y a le Ciel en haut, au-dessus de nos têtes. C'est le 陽 Yang, le plan supérieur, chaleur, vapeurs, mobilité. En bas, au contraire c'est le Sol, le 陰 Yin, immobile, matériel, substantiel, plutôt froid.
+
+// -------------------------------------- rebuts ---------------------------------------
+La surcharge pondérale représente un problème de santé publique capital. Cette affection chronique représente une source majeure de mortalité précoce. Suivant son degré, le recul de l’espérance de la vie humaine varie de 6 à 15 ans. Du point de vue des traitements, seule la chirurgie bariatrique semble donner de bons résultats à long terme mais cela au prix d’une amputation irréversible souvent drastique et d'un lot d’effets secondaires non négligeables. +
+Les solutions médicales et nutritionnelles sont, quant à elles, ridicules, inefficaces, parfois dangereuses et ce depuis des décennies. Les seuls domaines dans lesquels ces solutions excellent sont l’entretien de la confusion, l’extravagance, l’inefficacité et malheureusement le succès médiatique. Force est de constater qu’elles ne sont que le fruit de l’imagination de personnes n’ayant la plupart du temps aucune compétence dans le domaine de la médecine, de la physiologie humaine et surtout de la nutrition, fussent-elles pour certaines, médecins. +
+Il est assez consternant par ailleurs de constater qu’aucun chercheur, médecin ou nutritionniste ne soit arrivé jusqu’à maintenant à élaborer une méthode logique simple, compatible avec les données scientifiques actuelles, efficace et sans danger vis à vis de cette affection. De fait, c’est l’existence même de cette carence à cet endroit qui fait depuis longtemps la place aux incompétents au point que désormais les points de vue erronés sont tellement enracinés dans les habitudes de penser qu'il paraît illusoire d'aller les combattre sur leur propre terrain. Cet état de fait nous laisse donc présager encore pour longtemps de récurrents printemps apportant annuellement leurs lots de nouveaux régimes farfelus. +
+[.text-justify]
+Par ailleurs, ne sera pas abordé ni commenté le fait que la surcharge pondérale représenterait un problème de santé publique capital, que cette affection chronique serait une source majeure de mortalité précoce dont le seul traitement à long terme efficace semblerait être la chirurgie bariatrique mais au prix d'une amputation irréversible et un lot d'effets secondaires non négligeables. +
+Par ailleurs ne seront pas qualifiés les innombrables régimes de risibles, d'inefficaces et dangereux, de penser qu'ils ne seraient que le fruit de l'imagination de individus n'ayant la plupart du temps aucune compétence dans le domaine de la médecine, de la physiologie humaine et surtout de la nutrition, fussent-elles pour certaines médecins. +
+Je m'interdirai enfin de penser qu'il est consternant qu’aucun chercheur, médecin ou nutritionniste ne serait arrivé jusqu’à maintenant à élaborer une méthode logique simple, compatible avec les données scientifiques actuelles, efficace et sans danger vis à vis de cette affection et qu'en définitive, cet état de fait laisserait présager pour quelques années encore de récurrents printemps apportant leur lot de nouveaux régimes farfelus.
+
+
+[.text-justify]
+Cependant et avant toute chose, deux points essentiels doivent être abordés. Le premier sera consacré à la redéfinition de certains termes ayant trait à la nutrition. Ceux-ci ont été malheureusement galvaudés et souvent détournés de leur sens au cours des dernières décennies. Leur réhabilitation est essentielle pour une compréhension correcte du phénomène de l'amaigrissement et ne mérite pas d'être escamotée. Le second point consistera de décrire les instruments symboliques du système de pensée taoïste qui serviront à la démonstration et auxquels seront confrontés la plupart des lecteurs d'origine occidentale souvent ignorants ou mal informés du sujet. +
+Ces deux parties ayant été abordées, la suite sera effectivement consacrée à dresser le parallèle entre les deux mondes dont nous avons parlé et de tenter de s'insérer dans l'espace médian, intermédiaire entre ces deux univers, celui de la rationalité et celui plutôt subjectif du taoïsme.
+
+===== Le nutritionnisme.footnote:[Le nutritionnisme est un paradigme selon lequel ce sont les nutriments scientifiquement identifiés dans les aliments qui déterminent la valeur d'un aliment1. En d'autres termes, c'est l'idée que la valeur nutritionnelle d'un aliment est la somme de tous ses nutriments.], ou quand les nutriments passent avant l’aliment.
+https://theconversation.com/le-nutritionnisme-ou-quand-les-nutriments-passent-avant-laliment-151624
+[.text-justify]
+Des nutriments qui ajoutés les uns aux autres déterminent la valeur d’un aliment et constituent les indicateurs clés d’une alimentation saine. Telle est l’idée qui prévaut dans le nutritionnisme, un concept inventé et défini pour la première par l’australien Gyorgy Scrinis en 2013 (université de Melbourne), et popularisé il y a une dizaine d’années par le best-seller d’un journaliste américain. +
+Cette approche réductionniste a longtemps dominé les champs de la recherche, des conseils diététiques et du marketing alimentaire. Et comme l’a détaillé Gyorgy Scrinis, elle s’inscrit dans un continuum où l’on peut distinguer trois périodes. +
+Caractérisation et quantification. +
+La première ère du nutritionnisme démarre en même temps que les recherches en nutrition, aux alentours de 1850, et s’étend sur près de cent ans. L’aliment est alors déconstruit, ses composés sont caractérisés et quantifiés pour en étudier les effets sur l’organisme (souvent de manière isolée) ou définir les besoins nutritionnels. +
+Sont ainsi découverts successivement les protéines, glucides, lipides, fibres, minéraux, éléments trace, vitamines, caroténoïdes, polyphénols, etc. Et des maladies liées à des déficiences ou carences vont pouvoir être combattues : la vitamine D se montrera utile en cas de rachitisme, la vitamine B3 contre la pellagre, la vitamine C contre le scorbut, la vitamine B1 contre le béribéri. +
+À l’époque, physique et chimie sont des sciences déjà bien établies, et la nutrition s’en inspire pour appliquer la méthode de quantification à l’alimentation. Quant au corps humain, il est considéré comme une sorte de machine avec des entrées (alimentation) et des sorties de calories (métabolisme et activité physique).  +
+La calorie devient alors un indicateur étalon dont il est fait mention sur certains emballages de produits alimentaires dès le début du XXe siècle. Et non seulement la prise de poids est supposée provenir de la différence entre les entrées et sorties de calories, mais celles-ci sont considérées comme interchangeables d’un aliment à l’autre : 100 kcal de confiseries sont mises au même niveau que 100 kcal de viande, ou fruits, ou légumes. Manger n’est plus alors seulement un plaisir, il devient un acte scientifique, suivant des critères établis.
+
+===== Le bon et le mauvais.
+[.text-justify]
+L’émergence des premières grandes maladies chroniques non transmissibles va initier après-guerre la deuxième phase du nutritionnisme : c’est pour Gyorgy Scrinis l’ère de la « bonne et de la mauvaise » nutrition, celle des directives diététiques quant aux nutriments jugés malsains. +
+Ainsi, les nutritionnistes pointent du doigt le « mauvais » gras, jugé responsable des maladies cardiovasculaires – il faudra des décennies pour le réhabiliter. Et sommés d’alléger les produits en gras, les industriels américains lui substituent sucre et céréales raffinées. Or c’est à compter de cette époque que l’incidence de l’obésité va augmenter aux États-Unis… sans que les maladies cardiovasculaires ne soient enrayées. +
+La mise au ban d’un nutriment n’aura donc pas eu l’effet escompté, tout en entraînant une épidémie d’obésité : cette maladie touche aujourd’hui près de 4 adultes sur 10 aux États-Unis. Quant aux responsables premiers des grandes maladies non transmissibles, ce ne sont ni le gras, ni les glucides en soi, mais les aliments industriels ultra-transformés : leurs matrices dégradées, artificielles et hyper-palatables poussent à consommer en excès sel, sucre, gras et autres additifs. +
+Cette approche va successivement stigmatiser le gras, le sucre, le sel, le lactose, le gluten… et partant les aliments qui en contiennent comme le beurre, les œufs, le lait entier ou les produits céréaliers. Elle est aussi à l’œuvre dans l’opposition entre « bon » et « mauvais » cholestérol. Et elle va conduire les autorités sanitaires à émettre des recommandations visant la réduction, la limitation, l’évitement, ou encore la diminution de certains aliments et/ou nutriments.
+
+
+===== L’ère des aliments « fonctionnels »
+[.text-justify]
+À cette période de stigmatisation de nutriments jugés malsains, a fait suite depuis le début des années 1990 une ère focalisée sur des nutriments à promouvoir : sont ainsi vantés les mérites des fibres, polyphénols, acides gras oméga-3, bêta-carotène, antioxydants, etc. +
+Dès lors, dans une approche d’aliments « fonctionnels » et en prenant appui sur les bénéfices supposés de nutriments spécifiques, les industriels de l’agroalimentaire ont enrichi certains de leurs produits. Problème, il n’est alors pas tenu compte de l’effet de synergie de ces composés (et de l’effet « matrice »), qui n’agiront pas dans la nouvelle matrice alimentaire où ils sont incorporés comme dans leur matrice d’origine. Et ceci pourrait expliquer les résultats plus que décevants de deux essais cliniques menés dans les années 1990 et visant à tester l’effet de vitamines antioxydantes. +
+Le premier, ATBC (Alpha-Tocopherol, Beta-Carotene Cancer Prevention Study), a testé en Finlande une administration quotidienne de bêta-carotène (± rétinol, une forme chimique alternative de la vitamine A) et d’alpha-tocophérol (vitamine E), isolément ou en association, chez 29 133 fumeurs avérés. Et loin de prouver un effet préventif, cet essai a noté une mortalité en moyenne plus élevée de 8 % chez ceux qui ont reçu du bêta-carotène, principalement par suite de cancers pulmonaires et de cardiopathies ischémiques. Les participants recevant de l’alpha-tocophérol (vitamine E) ont aussi présenté une mortalité plus élevée due à un accident vasculaire cérébral hémorragique. +
+Le second essai, CARET (Carotene and Retinol Efficacy Trial), a été conduit aux États-Unis chez 18 314 anciens fumeurs et travailleurs de l’amiante. Or, il a fallu l’interrompre avant son terme, car dans le groupe recevant du bêta-carotène (en association avec du palmitate de rétinyle), la mortalité était accrue de 17 % et le risque de cancer du poumon… avait augmenté de 28 % ! +
+Ainsi, bien que supposément protecteurs, les antioxydants ne semblent pas bénéfiques lorsqu’ils sont administrés seuls et à des doses supra-nutritionnelles. Par ailleurs, force est de constater qu’à travers le monde, et en dépit de la mise sur le marché de quantité d’aliments fonctionnels censés améliorer notre santé, la prévalence des maladies chroniques non transmissibles n’a pas diminué mais au contraire explosé…
+
+===== Nutritionnisme et maladies chroniques.
+[.text-justify]
+S’il est légitime de rechercher une toxine ou un agent pathogène dans une maladie infectieuse, de parier sur une vitamine ou un minéral pour prévenir carences et déficiences, cela ne semble donc pas adapté pour les maladies chroniques non transmissibles dont les origines sont multifactorielles et demandent une approche plus holistique. +
+Remarquons par ailleurs que nous sommes passés de repas partagés en famille à des repas de plus en plus souvent tout préparés (« fast food ») que chacun consomme devant son écran isolément. Dans les pays développés, manger peut en effet être perçu comme une perte de temps et de rentabilité dans le milieu professionnel. Et avec la fast-food exportée dans le monde entier, il n’est pas exagéré de dire que les États-Unis sont à l’origine de la pandémie mondiale d’obésité associée à leur modèle alimentaire. +
+Le réductionnisme appliqué à l’alimentation : de la slow à la fast food. Author provided
+Comme l’a argumenté le professeur Carlos Monteiro – initiateur du concept d’aliments ultra-transformés –, recourir à ces produits, c’est se passer de l’effet matrice des aliments, de l’acte de cuisiner et du partage des repas. +
+Cela peut aussi conduire à faire l’impasse sur la mastication, avec les repas en poudre. Or n’oublions pas que celle-ci prépare le bol alimentaire et a des conséquences sur le contrôle de la satiété. Gardons aussi à l’esprit que les maladies chroniques non transmissibles ont plus à voir à l’origine avec la perte de l’effet « matrice » qu’avec la composition des aliments. +
+Se nourrir d’aliments ultra-transformés qui sont allégés en sucre, sel et gras, et/ou enrichis en fibres, minéraux ou vitamines… est-ce « bien manger » ? Évidemment, la réponse est non. Même saupoudrées de micro-nutriments protecteurs, des confiseries n’en deviendront pas pour autant de bons aliments : elles restent des bombes de sucre même si on améliore nos besoins en minéraux et vitamines ! Or à se focaliser sur les nutriments, on en oublie les aliments. Et cette vision, outre qu’elle sème la confusion dans l’esprit du grand public, contribue sans doute à l’essor des maladies chroniques non transmissibles.
+
+===== Bien manger est en réalité très simple.
+[.text-justify]
+Le nutritionisme a donc scientifisé à l’extrême et déconstruit l’acte alimentaire en supprimant progressivement la multidimensionnalité protectrice de cet acte quotidien. Et aujourd’hui, il nous semble urgent de sortir du « paradigme » nutritionniste dont on vient de voir les limites pour revenir à une approche plus holistique de l’aliment (effet matrice et degré de transformation) ou de l’alimentation. +
+En réalité, bien manger se comprend très simplement : il suffit de privilégier les produits végétaux, de consommer de vrais aliments et de les varier au maximum, c’est-à-dire tendre vers la règle des 3V. Pour la plupart des gens et la plupart du temps, point n’est besoin d’évoquer les nutriments en préventif. Le consommateur est bien plus sensible à des messages globaux et qualitatifs que réductionnistes et quantitatifs.
+
+|===
+| aliments crus | salades
+|| crudités
+|| fruits
+| viandes d'animaux à poils | viande de boeuf
+|| viande de veau
+|| viande de porc
+|| viande d'agneau - mouton
+|| viande de gibiers à poils
+| épices piquants | poivre
+|| moutarde
+|| harissa, gignembre, curry
+| aliments croustillants | pain trop cuit
+|| croûte trop cuite
+|| quignon
+|| pain grillé
+|| biscottes, cracottes, pains suédois
+|| repas mangeables à la main
+|| mode de cuisson al dente
+|| frites type allumette
+|| chips
+|| biscuits apéritifs
+|| pop corn
+|| chicorée et produits similaires
+| cellulose | légumes cuits excessifs |
+|===
+
+[.text-justify]
+[quote, GI Gurdjieff, aphorismes]
+« Prends la compréhension de l’Orient, le savoir de l’Occident et ensuite cherche. »
+
+A bold statement!footnote:[disclaimer Opinions are my own.]
+
+Une note de bas de page footnote:[Un exemple de note de bas de page.] ;
+une deuxième note de bas de page avec un ID de référence footnoteref:[note2,Second footnote.] ;
+enfin une référence à la deuxième note de bas de page footnoteref:[note2].
