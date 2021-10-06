@@ -8,32 +8,24 @@
 L'ambition de cet opuscule tient dans la tentative d'unifier les points de vue de la médecine occidentale et de la médecine chinoise sur le point très précis de la surcharge pondérale d'origine nutritionnelle. Ce sujet est certainement la pathognomonie la plus propice à mettre en évidence les liens entre la description occidentale du phénomène et son versus chinois.  +
 
 Pour expliciter son propos du point de vue scientifique, il utilise les termes et les notions acquises dans les premières années de médecine, en l’occurence les connaissances fondamentales en biochimie, en physiologie et en nutrition humaine telles qu’elles ont été décrites depuis maintenant un bon siècle et demi et qui, de fait, sont désormais solidement établies. +
-En ce qui concerne la Tradition Chinoise, il emprunte à l’ensemble du corpus taoïste.footnote:[Taoisme = Une certaine vision du monde.], mais surtout à la Loi des 5 éléments - chinois simplifié : 五行 ; pinyin : wǔxíng - qui est l’un des grands obligatoires de la médecine chinoise et que l’on définira brièvement comme une structure de catégorisation du monde issue de la logique de la pensée analogique.
+En ce qui concerne la Tradition Chinoise, il emprunte à l’ensemble du corpus taoïste.footnote:[Taoisme = Une certaine vision du monde, le Tao qui grâce à ses systèmes symboliques décrit l'unicité, la dualité yin/yang, le ternaire par la triade Ciel - Homme - Sol, le quaternaire et le quinaire des 5 éléments, le sénaire des 6 énergies, l'octal des 8 trigrammes et encore quelques autres.], mais surtout à la Loi des 5 éléments - chinois simplifié : 五行 ; pinyin : wǔxíng - qui est l’un des grands obligatoires de la médecine chinoise et que l’on définira brièvement comme une structure de catégorisation du monde issue de la logique de la pensée analogique.
 
 [.text-justify]
-La surcharge pondérale correspond à mauvaise gestion des réserves énergétiques du corps humain. Le fonctionnement de l'organisme dépend de deux filières énergétiques différentes, la filière glucidique et la filière lipidique. Celles-ci possèdent des caractéristiques opposées et sont par conséquent, complémentaires. Ce que l'une fait, l'autre ne le fait pas et réciproquement. Le déploiement de ces deux filières de manière opportune couvrent l'ensemble des besoins de l'organisme.
+La surcharge pondérale grasse est liée à mauvaise gestion des réserves énergétiques du corps humain. Le fonctionnement de l'organisme dépend essentiellement de deux filières énergétiques différentes, la filière glucidique et la filière lipidique. Celles-ci possèdent des caractéristiques opposées et sont par conséquent, complémentaires. Ce que l'une fait, l'autre ne le fait pas et réciproquement. Le déploiement de ces deux filières de manière opportune couvre l'ensemble des besoins de l'organisme. +
 
-Ces deux filières énergétiques englobent des ressources extérieures différentes, leur assimilation par le biais de la digestion et leur absorption bien spécifiques, leur zone de stockage elle aussi bien définie, leur déstockage et leur redistribution à travers une forme de transport sanguin particulière jusqu'à leur utilisation au sein de la mitochondrie où les substrats sont brûlés lors du processus oxydatif. Issue du milieu extérieur, de la bouche au dioxyde de carbone rejeté dans l'air expiré, l'aventure de ces molécules énergétiques composées de carbone et d'hydrogène à travers les processus biochimiques de l'organisme est intéressante +
+Ces deux filières énergétiques englobent des ressources extérieures différentes, leur assimilation par le biais de la digestion et leur absorption bien spécifiques, leur zone de stockage elle aussi bien définie, leur déstockage et leur redistribution à travers une forme de transport sanguin particulière jusqu'à leur utilisation au sein de la mitochondrie où les substrats sont brûlés lors du processus oxydatif. Issue du milieu extérieur, de la bouche au dioxyde de carbone rejeté dans l'air expiré, l'aventure de ces molécules énergétiques composées de carbone et d'hydrogène à travers les processus biochimiques de l'organisme est intéressante à découvrir. +
 
-Leurs différences font leur complémentarité. Ce que fait l'une, l'autre ne le fait pas et inversement. En conséquence, leurs déploiements couvrent l'ensemble des besoins de l'organisme. Elles correspondent précisément pour l'une à la filière des sucres ou glucides et pour la seconde à celle des graisses ou lipides. +
-
-Dans le tableau ci-dessous sont décrites les principales caractéristiques de ces deux filières.
+Dans le tableau ci-dessous sont décrites les principales caractéristiques de ces deux filières qui vont être à la base de la mise en perspective des équivalences occidentales et chinoises.
 |===
-
 | ressources énergétiques | glucides | lipides
-
-| stockage | foie | peau et séreuses
-
-| mise en oeuvre | rapide et instantanée | lente et tardive
-
+| ressource | amidons (céréales, tubercules, légumineuses) | tissu adipeux des animaux à poils et leur production laitière
+| stockage | foie et muscles | peau et séreuses
+| mise en oeuvre | instantanée | tardive
 | réserves | faibles | d'importantes à énormes
-
-| proportions de l'énergie totale | 70% | 30%
-
-| forme de stockage | http://jean-jacques.auclair.pagesperso-orange.fr/polysaccharides/glycogene.htm[glycogène] = très grosse structure chimique)| triglycérides (molécule relativement petite)
-
+| participation à l'énergie totale | 70% | 30%
+| forme de stockage | http://jean-jacques.auclair.pagesperso-orange.fr/polysaccharides/glycogene.htm[glycogène] = très grosse structure chimique) | triglycérides (molécule relativement petite)
 | mise en circulation sanguine | glucose libre | liée à des protéines de transport
-
-| métabolisme oxydatif| auto-suffisant | lié à celui des glucides
-
+| métabolisme oxydatif | auto-suffisant | lié à celui des glucides
+| aboutissement de la filière | radical acétyl | radical acétyl
+| rejet | dioxyde de carbone | dioxyde de carbone
 |===
