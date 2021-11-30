@@ -1,24 +1,132 @@
+:toc:
 :imagesdir: ./pics
-
 [.text-center]
-==== L'obésité est un excès de métal!
+=== Traité du Métal et de l'obésité
+[.text-justify]
+[quote, GI Gurdjieff, aphorismes]
+« Prends la compréhension de l’Orient, le savoir de l’Occident et ensuite cherche. »
+
 [.text-justify]
 ===== Préface
-
-L'ambition de cet opuscule tient dans la tentative d'unifier les points de vue de la médecine occidentale et de la médecine chinoise sur le point très précis de la surcharge pondérale d'origine nutritionnelle. Ce sujet est certainement la pathognomonie la plus propice à mettre en évidence les liens entre la description occidentale du phénomène et son versus chinois.  +
-
-Pour expliciter son propos du point de vue scientifique, il utilise les termes et les notions acquises dans les premières années de médecine, en l’occurence les connaissances fondamentales en biochimie, en physiologie et en nutrition humaine telles qu’elles ont été décrites depuis maintenant un bon siècle et demi et qui, de fait, sont désormais solidement établies. +
-En ce qui concerne la Tradition Chinoise, il emprunte à l’ensemble du corpus taoïste.footnote:[Taoisme = Une certaine vision du monde, le Tao qui grâce à ses systèmes symboliques décrit l'unicité, la dualité yin/yang, le ternaire par la triade Ciel - Homme - Sol, le quaternaire et le quinaire des 5 éléments, le sénaire des 6 énergies, l'octal des 8 trigrammes et encore quelques autres.], mais surtout à la Loi des 5 éléments - chinois simplifié : 五行 ; pinyin : wǔxíng - qui est l’un des grands obligatoires de la médecine chinoise et que l’on définira brièvement comme une structure de catégorisation du monde issue de la logique de la pensée analogique.
-
 [.text-justify]
-La surcharge pondérale grasse est liée à mauvaise gestion des réserves énergétiques du corps humain. Le fonctionnement de l'organisme dépend essentiellement de deux filières énergétiques différentes, la filière glucidique et la filière lipidique. Celles-ci possèdent des caractéristiques opposées et sont par conséquent, complémentaires. Ce que l'une fait, l'autre ne le fait pas et réciproquement. Le déploiement de ces deux filières de manière opportune couvre l'ensemble des besoins de l'organisme. +
+La surcharge pondérale représente un problème de santé publique capital. Cette affection chronique représente une source majeure de mortalité précoce. Suivant son degré, le recul de l’espérance de la vie humaine varie de 6 à 15 ans. Du point de vue des traitements, seule la chirurgie bariatrique semble donner de bons résultats à long terme mais cela au prix d’une amputation irréversible souvent drastique et d'un lot d’effets secondaires non négligeables. +
+Les solutions médicales et nutritionnelles sont, quant à elles, ridicules, inefficaces, parfois dangereuses et ce depuis des décennies. Les seuls domaines dans lesquels ces solutions excellent sont l’entretien de la confusion, l’extravagance, l’inefficacité et malheureusement le succès médiatique. Force est de constater qu’elles ne sont que le fruit de l’imagination de personnes n’ayant la plupart du temps aucune compétence dans le domaine de la médecine, de la physiologie humaine et surtout de la nutrition, fussent-elles pour certaines, médecins. +
+Le problème ne provient pas d'une carence du corpus de la nutrition occidentale, les scientifiques actuels possèdant un très haut niveau de compréhension des processus d'assimilation et de stockage des ressources énergétiques ainsi que de leurs filières cataboliques, mais plutôt d'une évidente et étrange incapacité à élaborer une méthode logique, simple, compatible avec les données scientifiques, efficace et sans danger vis à vis de cette affection. De fait, c’est l’existence même de cette carence qui a fait depuis longtemps la place aux incompétents au point que désormais, les points de vue erronés sont tellement enracinés dans les habitudes de penser qu'il paraît illusoire d'aller les combattre sur leur propre terrain. +
+[.text-justify]
+L'objet de cet opuscule réside dans la tentative d'unifier les points de vue de la médecine occidentale et de la médecine chinoise à propos de la surcharge pondérale d'origine nutritionnelle. Ce sujet possédant de notre point de vue, la pathogénie la plus propice à mettre en évidence les liens entre la description chinoise du phénomène et son versus scientifique occidentale.  +
 
-Ces deux filières énergétiques englobent des ressources extérieures différentes, leur assimilation par le biais de la digestion et leur absorption bien spécifiques, leur zone de stockage elle aussi bien définie, leur déstockage et leur redistribution à travers une forme de transport sanguin particulière jusqu'à leur utilisation au sein de la mitochondrie où les substrats sont brûlés lors du processus oxydatif. Issue du milieu extérieur, de la bouche au dioxyde de carbone rejeté dans l'air expiré, l'aventure de ces molécules énergétiques composées de carbone et d'hydrogène à travers les processus biochimiques de l'organisme est intéressante à découvrir. +
+En ce qui concerne la Tradition Chinoise, il emprunte à l’ensemble du corpus taoïste.footnote:[Taoisme = Une certaine vision du monde, le Tao qui grâce à ses systèmes symboliques décrit l'unicité par le Tai I, la dualité par le yin/yang, le ternaire par la triade Ciel - Homme - Sol, le quaternaire et le quinaire par les 5 éléments, le sénaire par les 6 énergies, l'octal par les 8 trigrammes et encore quelques autres.], mais surtout à la Loi des 5 éléments footnote:[Loi des 5 éléments - chinois simplifié : 五行 ; pinyin : wǔxíng] qui est l’un des grands obligatoires de la médecine chinoise et que l’on définira brièvement comme une structure de catégorisation du monde issue de la logique de la pensée analogique. +
+
+Pour expliciter son propos du point de vue scientifique, il utilise les termes et les notions classiques des sciences fondamentales médicales, biochimie, physiologie et nutrition humaine, telles qu’elles ont été établies depuis maintenant un bon siècle et demi et qui, de fait, sont désormais solidement établies. +
+
+
+Maigrir et perdre du poids.
+Parmi les termes à redéfinir, maigrir et perdre du poids sont les deux termes sont les premiers.
+
+Le couple "maigrir et perdre du poids", les termes IMC (indice de Quetelet) sont des termes de langage qu'il nous faut examiner et redéfinir.
+
+Le terme maigrir est employé lorsque la perte de poids se fait aux dépends de la masse grasse. Elle entraîne une diminution de taux de masse grasse qui est le rapport entre la masse grasse et le poids du corps.
+Imaginons une perte de poids se situant plutôt sur la masse maigre, en particulier sur la masse musculaire qui est en première ligne dès que les apports de sucres ne correspondent pas aux besoins de l'organisme. Il est très facile de réaliser ce cas de figure en employant un régime sans féculents, ce qui correspond pratiquement à tous les régimes proposés dans le commerce qui n'apportent pas une dose correcte de féculents à chaque repas. Dans ce cas, le taux de masse grasse
+
+
+Il est important, eu égard à la manière dont est évoqué le problème de la surcharge dans l'ensemble des médias, de redéfinir une bonne partie du vocabulaire employé. Certains mots parmi les plus usités, ne correspondent pas à une réalité scientifique. Les termes, maigrir, perdre du poids, mincir, protéines ne sont pas correctement définis et le flou que cela engendre permet de déguiser aisément la réalité. Certaines expressions apparaissent, pourrait-on dire, assez improbables du point de vue scientifique; la plus remarquable étant « brûler des calories » ! Certaines théories, argumentées par des faits scientifiques tacitement admis mais souvent faux, souvent exagérés, détournés de leur contexte, entraînent fréquemment les personnes à commettre des méfaits d'ordre nutritionnel à leur organisme en toute ignorance.
+[.text-justify]
+
+Le meilleur conseil que nous pourrions donner à quiconque voudrait en connaître à propos de l'amaigrissement des personnes serait de s'intéresser à cette chose que les chinois appellent les 5 Elements et en particulier à celui qui est à droite, l'élément Métal.
+Eh oui, vous vous demandez effectivement comment vous devez apprendre cette nouvelle. Ce genre d'assertion destinée à surprendre par son incongruité mérite toutefois quelques explications pour se rendre crédible. +
+Aurait-on évoqué ce point de vue avec une autre personne, il y a de grandes chances qu'il n'en n'aurait pas compris tout autant que vous mais avec un médecin chinois, il en aurait été différemment. Celui-ci aurait réfléchi quelques secondes avant d'acquiescer avec un sourire. Il vous aurait ensuite expliqué qu'à la l'aune de la médecine taoïste, la peau appartient au Métal, un des 5 éléments de la loi éponyme. Cet élément qui régente la respiration assure ses fonctions à l'aide d'organes divers dont les plus nobles sont les poumons et la peau.
+
+
+C'est lui le coupable à qui il faut interdire tant que le déséquilibre qu'il induit par son état d'excès tant que les choses ne sont pas rentrées dans l'ordre.
+Pour aider au rétablissement on peut ajouter une chose, la création d'un excès thérapeutique au niveau de l'élément Bois, celui qui est à gauche, en l'alimentant plus qu'il n'en faut et en le soutenant en poussant aussi sur l'élément Eau, celui qui est en bas.
+
+
+En médecine chinoise, deux médecines s'opposent et se complètent, l'acupuncture et la nutrition. La première est destinée au Yang, à l'énergie, la seconde au Yin, c'est à dire à la matérialité du corps.
+
+
+
+permettant de quantifier les tendances alimentaires en fonction de leur appartenance élémentaire grâce aux analogies décrites par la médecine chinoise.
+Assez rapidement un profil particulier se dessina, le profil correspondant à l'élément Métal dans lequel les tendances alimentaires se trouvaient particulièrement associées à cet élément. A ce profil particulier
+
+
+
+
+La médecine chinoise utilise deux systèmes symboliques pour décrire le monde, les systèmes duodénaire et dénaire. Le premier correspond à la vision de l'homme nomade, ce sont les 6 Energies véhiculées par les (6 x 2) 12 Tchings ou vaisseaux principaux au niveau desquels, à certains endroits, à une certain heure, certains traitements peuvent être appliqués pour ralentir, accélérer ou encore disperser cette énergie. +
+Le second correspond à la vision de l'homme sédentaire à l'aide du sytème dénaire. Ce sont les 5 éléments et leur loi éponyme qui décrivent  le cultivateur, pour qui le monde se catégorise en 5 éléments régis par la loi éponyme. Le systèm
+Yin, de l'intérieur et des 5 fonctions vitales supportées par les 5 Tsangs ou Organes au sens noble du terme. Ces fonctions indispensables à la vie, sont accessibles à la thérapeutique par la biais de l'alimentation au sens large du terme, celle-ci comptant non seulement la nutrition habituelle mais aussi l'alimentation des sens, les odeurs, le goût, les sons. A ce niveau, les comptes sont effectués à l'aide d'une calculette spéciale, la loi des 5 éléments et d'une règle, l'analogie.
+
+
+ symboliques utilisés par celle-ci sont particulièrement importants à connaître. Le premier, le système duodénal ou nomade, décrit l'énergie, le Ciel, le Yang. Le second, le système dénaire ou sédentaire décrit le Sol, la matérialité, le Yin. En Haut les 6 énergies, en bas les 5 éléments.
+
+L'acupuncture est la partie de la médecine chinoise qui
+ plus connu de ces domaines est celui de l'acupuncture et le système symbolique adapté à la description de celle-ci est celui de l'homme nomade appelé système duodénaire. L'acupuncture s'adresse spécialement à l'énergie Yang. Cette énergie parcourt le corps, véhiculée par les (6 x 2) 12 Tchings ou vaisseaux principaux sur lesquels, à certains endroits, différents traitements peuvent être appliqués pour ralentir, accélérer ou encore disperser cette énergie. +
+Faisant pendant à ce système type nomade, le système symbolique sédentaire ou système dénaire est parfaitement adapté à la description du Yin, de l'intérieur et des 5 fonctions vitales supportées par les 5 Tsangs ou Organes au sens noble du terme. Ces fonctions indispensables à la vie, sont accessibles à la thérapeutique par la biais de l'alimentation au sens large du terme, celle-ci comptant non seulement la nutrition habituelle mais aussi l'alimentation des sens, les odeurs, le goût, les sons. A ce niveau, les comptes sont effectués à l'aide d'une calculette spéciale, la loi des 5 éléments et d'une règle, l'analogie. +
+Il est manifeste que l'obésité nécessite plutôt d'être envisagée à travers le système dénaire qu'à travers le système duodénaire. Perdre deux tailles grâce aux aiguilles n'est pas courant. C'est donc à travers le prisme des 5 éléments qui faut envisager la compréhension du phénomène. +
+En fait, l'obésité est la seule pathologie qui s'exprime de manière visible à travers son tissu, en l'occurence la peau.
+
+
+
+
+
+
+Du point de vue de la médecine chinoise, le diagnostic étiologique de l'obésité est facile à poser. Il est même possible de dire qu'il tombe sous le sens, sinon sous les yeux. C'est en fait la seule pathologie qui s'exprime de manière visible à travers son tissu, en l'occurence la peau. La peau étant le Tsang de l'élément Métal dans la loi des 5 éléments et le symptôme qui l'occupe étant manifestement l'excès, au vue de l'hypertrophie, le diagnostic correspond à un excès de l'élément Métal.
+
+
+correspond un déséquilibre des Tsangs internes généralement provoqué par un excès de l'élément Métal, lui même secondé par une insuffisance portant sur les éléments Bois et Eau. +
+
+
+
+'''
+[.text-justify]
+
+
+
+aisé
+commode
+élémentaire
+enfantin
+simple
+fastoche
+
+
+à une affection du Tsang de l'élément Métal de la loi des 5 éléments.
+
+
+La surcharge pondérale adipeuse d'origine nutritionnelle est essentiellement une pathologie liée à l'élément Métal. Cette assertion est à la fois sous-tendue par l'analyse symbolique que l'on peut appliquer à cette affection mais aussi par l'analyse de sa biochimie au regard de la science actuelle.
+
+L'étude de cette pathologie à travers le prisme de la loi des 5 éléments est essentiel à la compréhension.
+Les 5 éléments, Bois à gauche, Feu en haut, Métal à gauche, Eau en bas, la Terre au centre dans leur disposition spatiale. Bois à l'équinoxe de printemps, Feu au solstice d'été, Terre en saison fictive les 5 mai, pivot de l'année, Métal à l'équinoxe d'automne et Eau au solstice d'hiver.
+Un axe vertical, l'axe des solstices, Feu - Eau.
+Un axe horizontal, l'axe des équinoxes, Bois - Métal
+Deux maximums pour les solstices Feu et Eau
+Deux zones d'équilibre pour les équinoxes Bois et Métal.
+
+représentés à l'intérieur Yin de l'organisme par leurs Tsangs respectifs du foie, du coeur, du tube digestif, des poumons et des reins. Deux correspondent
+
+
+Cette pathologie est précisément ses racines dans une mauvaise gestion des réserves énergétiques de l'organisme. Le fonctionnement de celui-ci est assuré par deux filières énergétiques différentes, la filière glucidique et la filière lipidique. Deux carburants aux caractéristiques opposées et par là même, complémentaires. Le déploiement de ces deux filières de manière opportune couvre l'ensemble des besoins de l'organisme. +
+
+
+
+
+La filière glucidique correspond schématiquement à la séquence suivante : +
+Ingestion d'amidon +
+Digestion de l'amidon transformation en glucose +
+Absorption du glucose - sécrétion d'insuline +
+Stockage du glucose dans le foie et les muscles par le biais de l'insuline sous forme glycogène +
+Déstockage du glycogène sous forme glucose par le biais du glucagon +
+Transport sanguin sous forme glucose vers les cellules +
+Oxydation du substrat au sein du cycle de Krebs dans la mitochondrie de la cellule +
+
+La filière glucidique correspond schématiquement à la séquence suivante :
+
+Ces deux filières énergétiques se caractérisent par des ressources extérieures différentes dont l'assimilation digestive et l'absorption sont bien spécifiques, tout comme pour leur zone de stockage, leur déstockage et leur redistribution via un transport sanguin particulier jusqu'à leur utilisation au sein de la mitochondrie où les substrats sont brûlés lors du processus oxydatif. Du milieu extérieur d'où elles proviennent au dioxyde de carbone rejeté dans l'air expiré, l'aventure de ces molécules énergétiques composées de carbone et d'hydrogène à travers les processus biochimiques de l'organisme est riche en découvertes analogiques.
 
 Dans le tableau ci-dessous sont décrites les principales caractéristiques de ces deux filières qui vont être à la base de la mise en perspective des équivalences occidentales et chinoises.
 |===
 | ressources énergétiques | glucides | lipides
 | ressource | amidons (céréales, tubercules, légumineuses) | tissu adipeux des animaux à poils et leur production laitière
+| digestion | amylase salivaire et gastrique | lipase pancréatique + sels biliaires
 | stockage | foie et muscles | peau et séreuses
 | mise en oeuvre | instantanée | tardive
 | réserves | faibles | d'importantes à énormes
@@ -29,3 +137,9 @@ Dans le tableau ci-dessous sont décrites les principales caractéristiques de c
 | aboutissement de la filière | radical acétyl | radical acétyl
 | rejet | dioxyde de carbone | dioxyde de carbone
 |===
+Dans le corps humain, en cas de surcharge pondérale, c'est principalement la peau qui est affectée par la maladie et qui présente le symptôme, une hypertrophie des adipocytes de la couche hypodermique de la peau due à un excès de stockage de graisses dans l'organisme. En dehors de la peau, les séreuses qui enveloppent nos organes intérieurs et dont certaines comme le péricarde et surtout le péritoine ont elles aussi la capacité de stocker les lipides.
+La fonction du tissu adipeux est plurielle. Il joue le rôle de réservoir énergétique ainsi que d'isolant thermique en ce qui concerne la peau et de protection des organes ainsi que de remplissage pour les séreuses péricardique, mésentérique et rétro-péritonéale.
+
+Les glucides appartiennent à une groupe chimique particulier contenant une grande variété de molécules qui jouent un grand rôle dans l'organisme.
+Les sucres simples sont de petites molécules à 5 ou 6 carbones. Le glucose en est l'ose principal. C'est sous cette forme de molécule de glucose libre, sans transporteur, que le sucre est véhiculé dans le sang. Mais avant d'être véhiculé de telle manière ce sucre a une vie antérieure bien particulière.
+Le point de départ de ce parcours est l'amidon. Cette molécule est synthétisée dans les grains d’amyloplastes des cellules végétales. Elle représente le substrat nutritif de la graine destiné à sa phase de vie initiale avant enracinement de la plante. C'est du sucre ou plus précisément un polymère de glucose.
